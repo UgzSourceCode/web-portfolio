@@ -1,0 +1,24 @@
+# Logs
+portfolio-front/logs
+portfolio-front/*.log
+portfolio-front/npm-debug.log*
+portfolio-front/yarn-debug.log*
+portfolio-frontyarn-error.log*
+portfolio-front/pnpm-debug.log*
+portfolio-front/lerna-debug.log*
+
+portfolio-front/node_modules
+portfolio-front/dist
+portfolio-front/dist-ssr
+portfolio-front/*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
