@@ -1,16 +1,16 @@
 # Logs
-portfolio-front/logs
-portfolio-front/*.log
-portfolio-front/npm-debug.log*
-portfolio-front/yarn-debug.log*
-portfolio-frontyarn-error.log*
-portfolio-front/pnpm-debug.log*
-portfolio-front/lerna-debug.log*
+web-app/logs
+web-app/*.log
+web-app/npm-debug.log*
+web-app/yarn-debug.log*
+web-app/yarn-error.log*
+web-app/pnpm-debug.log*
+web-app/lerna-debug.log*
 
 web-app/node_modules
-portfolio-front/dist
-portfolio-front/dist-ssr
-portfolio-front/*.local
+web-app/dist
+web-app/dist-ssr
+web-app/*.local
 
 # Editor directories and files
 .vscode/*
