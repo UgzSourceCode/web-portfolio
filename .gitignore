@@ -7,7 +7,7 @@ portfolio-frontyarn-error.log*
 portfolio-front/pnpm-debug.log*
 portfolio-front/lerna-debug.log*
 
-portfolio-front/node_modules
+web-app/node_modules
 portfolio-front/dist
 portfolio-front/dist-ssr
 portfolio-front/*.local
