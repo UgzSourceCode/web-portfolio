@@ -19,8 +19,15 @@ Some description
 - [ ] Prepared descriptions in [root README.md](../README.md)
 - [ ] Created backlog in GitHub Projects
 - [ ] Planning features
-- [x] Prepared diary schema.
+- [x] Prepared diary schema. - [PR#5](https://github.com/UgzSourceCode/web-portfolio/pull/5)
 ### Description
 I start planning:
 - what this project should have,
-- task order,
+- tasks,
+- tasks order,
+- what documentation should have,
+- documentation schema,
+- which license is better for this project.
+I prepared:
+- questionnaire for other people in community (eg. which design is better, which information are important in portfolio),
+- list with few portfolio designs and some examples.
