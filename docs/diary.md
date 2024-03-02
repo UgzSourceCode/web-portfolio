@@ -16,7 +16,7 @@ The checked tasks have been finished, but the unchecked ones were started and no
 
 ## 02-03-2024
 ### Tasks
-- [ ] Prepared assumptions doc
+- [x] Prepared assumptions doc - [PR#8](https://github.com/UgzSourceCode/web-portfolio/pull/8)
 - [ ] Prepared descriptions in [root README.md](../README.md)
 - [ ] Created backlog in GitHub Projects
 - [ ] Planning features
