@@ -7,7 +7,8 @@
 - Documentation should be located in the docs folder.
 
 ## Tests
-- 
+- I want to have unit tests for hooks and important elements.
+- Before refactoring, it will be covered by end-to-end tests.
 
 ## Linter
 - For this project, I want to have a configured linter for all files.
