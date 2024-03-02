@@ -35,6 +35,8 @@
   - Social media
   - Skills
   - Projects
+  - Experience
+  - Community initiatives
 - What I can say about projects:
   - Link to GitHub (if it's open source)
   - Description (a few sentences)
