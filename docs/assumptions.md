@@ -1,5 +1,8 @@
 # My Assumptions
 
+## Time
+- It's not a speedrun; I will focus on other projects. This place should be ready when I finish other projects for showcase.
+
 ## Documentation
 - Documentation should be in English.
 - All features/components/scripts should have descriptions included in the documentation.
@@ -18,6 +21,7 @@
 
 ## UI Design
 - I should find few designs prepare some questioner and to community.
+- Mobile devices have fixed sizes or aspect ratios.
 
 ## Content
 - Transition from core to general information.
