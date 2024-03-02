@@ -16,6 +16,9 @@
 ## Linter
 - For this project, I want to have a configured linter for all files.
 
+## Architecture and File Structure
+- The architecture and file structure will be planned, and pros and cons will be documented for various possibilities.
+
 ## Translations
 - I want to have my portfolio in 2 languages: Polish and English.
 
