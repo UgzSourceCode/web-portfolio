@@ -12,6 +12,17 @@ It's place when I note what is done in project per day (older date will be lower
 Some description
 ```
 
+The checked tasks have been finished, but the unchecked ones were started and not finished.
+
+## 02-03-2024
+### Tasks
+- [ ] Prepared assumptions doc
+- [ ] Prepared descriptions in [root README.md](../README.md)
+- [ ] Created backlog in GitHub Projects
+- [ ] Planning features
+### Description
+Today I focused on planning and gathering assumptions.
+
 ## 01-03-2024
 ### Tasks
 - [x] Initialize React App - [PR#2](https://github.com/UgzSourceCode/web-portfolio/pull/2)
@@ -28,6 +39,6 @@ I start planning:
 - what documentation should have,
 - documentation schema,
 - which license is better for this project.
-I prepared:
+  I prepared:
 - questionnaire for other people in community (eg. which design is better, which information are important in portfolio),
 - list with few portfolio designs and some examples.
