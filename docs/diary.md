@@ -14,9 +14,20 @@ Some description
 
 The checked tasks have been finished, but the unchecked ones were started and not finished.
 
+## 03-03-2024
+### Tasks
+- [x] Small fix in assumptions doc - [PR#17](https://github.com/UgzSourceCode/web-portfolio/pull/17)
+- [x] Prepared descriptions in [root README.md](../README.md) - [PR#13](https://github.com/UgzSourceCode/web-portfolio/pull/13)
+- [x] Created ADL document - [PR#14](https://github.com/UgzSourceCode/web-portfolio/pull/14)
+- [ ] Created backlog in GitHub Projects
+- [ ] Planning features
+### Description
+I continue planning, and do some fixes in documentation.
+
 ## 02-03-2024
 ### Tasks
 - [x] Prepared assumptions doc - [PR#8](https://github.com/UgzSourceCode/web-portfolio/pull/8)
+- [x] Prepared README inside the docs folder with a list of link to documents - [PR#9](https://github.com/UgzSourceCode/web-portfolio/pull/9)
 - [ ] Prepared descriptions in [root README.md](../README.md)
 - [ ] Created backlog in GitHub Projects
 - [ ] Planning features
