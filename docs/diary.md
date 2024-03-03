@@ -16,6 +16,7 @@ The checked tasks have been finished, but the unchecked ones were started and no
 
 ## 03-03-2024
 ### Tasks
+- [x] Added LICENSE - [PR#18](https://github.com/UgzSourceCode/web-portfolio/pull/18)
 - [x] Small fix in assumptions doc - [PR#17](https://github.com/UgzSourceCode/web-portfolio/pull/17)
 - [x] Prepared descriptions in [root README.md](../README.md) - [PR#13](https://github.com/UgzSourceCode/web-portfolio/pull/13)
 - [x] Created ADL document - [PR#14](https://github.com/UgzSourceCode/web-portfolio/pull/14)
