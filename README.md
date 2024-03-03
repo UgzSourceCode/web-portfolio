@@ -94,7 +94,9 @@ My motivation for participating in this challenge includes:
 - I aim to make progress on it every day, step by step.
 
 ## License
-`License information placeholder`
+
+This project is licensed under the Creative Commons Attribution 4.0 International License - see the [LICENSE](LICENSE) file for details.
+
 
 ## Links
 - [Documentation](docs/README.md)
