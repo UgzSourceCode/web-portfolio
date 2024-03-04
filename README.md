@@ -60,6 +60,8 @@ I'm going to do few small projects, and portfolio is way to present my person, s
 ## Quick start
 ### Running the Mock Web Application
 
+![run-dev.gif](assets%2Frun-dev.gif)
+
 1. Clone the web-portfolio repository:
 ```
 git clone https://github.com/UgzSourceCode/web-portfolio.git
