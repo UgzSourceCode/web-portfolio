@@ -16,7 +16,8 @@ The checked tasks have been finished, but the unchecked ones were started and no
 
 ## 04-03-2024
 ### Tasks
-- [x] Added gif with running dev mocks procedure - [PR#]()
+- [x] Added gif with running dev mocks procedure - [PR#23](https://github.com/UgzSourceCode/web-portfolio/pull/23)
+- [x] Created ADR template [PR#21](https://github.com/UgzSourceCode/web-portfolio/pull/21)
 ### Description
 I continue planning and improve documentation.
 
