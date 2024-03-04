@@ -14,6 +14,12 @@ Some description
 
 The checked tasks have been finished, but the unchecked ones were started and not finished.
 
+## 04-03-2024
+### Tasks
+- [x] Added gif with running dev mocks procedure - [PR#]()
+### Description
+I continue planning and improve documentation.
+
 ## 03-03-2024
 ### Tasks
 - [x] Added LICENSE - [PR#18](https://github.com/UgzSourceCode/web-portfolio/pull/18)
