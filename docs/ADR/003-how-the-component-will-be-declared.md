@@ -1,4 +1,4 @@
-# How the component will be declared?
+# [003] How the component will be declared?
 [< Back to ADR's list](README.md)
 
 ## Context and  Problem Statement
