@@ -18,7 +18,7 @@ The checked tasks have been finished, but the unchecked ones were started and no
 ### Tasks
 - [x] Added ADR (How the component will be declared?) - [PR#28](https://github.com/UgzSourceCode/web-portfolio/pull/28)
 - [x] Added ADR (How the component will be exported?) - [PR#28](https://github.com/UgzSourceCode/web-portfolio/pull/28)
-- [ ] Resolved bug in documentations
+- [x] Resolved bug in documentations - [PR#29](https://github.com/UgzSourceCode/web-portfolio/pull/29)
 - [ ] Created backlog in GitHub Projects
 - [ ] Planning features
 ### Description
