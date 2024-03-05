@@ -19,7 +19,7 @@ The checked tasks have been finished, but the unchecked ones were started and no
 - [x] Added ADR (How the component will be declared?) - [PR#28](https://github.com/UgzSourceCode/web-portfolio/pull/28)
 - [x] Added ADR (How the component will be exported?) - [PR#28](https://github.com/UgzSourceCode/web-portfolio/pull/28)
 - [x] Resolved bug in documentations - [PR#29](https://github.com/UgzSourceCode/web-portfolio/pull/29)
-- [x] Convert all components to o arrow function components with named exports during declaration - [PR#30](https://github.com/UgzSourceCode/web-portfolio/issues/30)
+- [x] Convert all components to o arrow function components with named exports during declaration - [PR#31](https://github.com/UgzSourceCode/web-portfolio/pull/31)
 - [ ] Created backlog in GitHub Projects
 - [ ] Planning features
 ### Description
