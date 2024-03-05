@@ -14,10 +14,22 @@ Some description
 
 The checked tasks have been finished, but the unchecked ones were started and not finished.
 
+## 06-03-2024
+### Tasks
+- [x] Added ADR (How the component will be declared?) - [PR#28](https://github.com/UgzSourceCode/web-portfolio/pull/28)
+- [x] Added ADR (How the component will be exported?) - [PR#28](https://github.com/UgzSourceCode/web-portfolio/pull/28)
+- [ ] Resolved bug in documentations
+- [ ] Created backlog in GitHub Projects
+- [ ] Planning features
+### Description
+I continue planning and improve documentation.
+
 ## 05-03-2024
 ### Tasks
 - [x] Added ADR (Which framework will be better for the frontend of the portfolio?) - [PR#25](https://github.com/UgzSourceCode/web-portfolio/pull/25)
 - [x] Added ADR (Which language will be better for the frontend of the portfolio?) - [PR#25](https://github.com/UgzSourceCode/web-portfolio/pull/25)
+- [ ] Added ADR (How the component will be declared?)
+- [ ] Added ADR (How the component will be exported?)
 - [ ] Created backlog in GitHub Projects
 - [ ] Planning features
 ### Description
