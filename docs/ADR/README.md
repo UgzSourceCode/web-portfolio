@@ -5,4 +5,5 @@
 Template for ADR should you found in [template document](template.md).
 
 ## List of ADR (newer should be higher)
-- place for ADR
+1. [Which framework will be better for the frontend of the portfolio?](001-which-framework-frontend)
+2. [Which language will be better for the frontend of the portfolio?](002-which-language-frontend.md)
