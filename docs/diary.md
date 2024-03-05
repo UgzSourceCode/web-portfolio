@@ -18,6 +18,8 @@ The checked tasks have been finished, but the unchecked ones were started and no
 ### Tasks
 - [x] Added ADR (Which framework will be better for the frontend of the portfolio?) - [PR#25](https://github.com/UgzSourceCode/web-portfolio/pull/25)
 - [x] Added ADR (Which language will be better for the frontend of the portfolio?) - [PR#25](https://github.com/UgzSourceCode/web-portfolio/pull/25)
+- [ ] Added ADR (How the component will be declared?)
+- [ ] Added ADR (How the component will be exported?)
 - [ ] Created backlog in GitHub Projects
 - [ ] Planning features
 ### Description
