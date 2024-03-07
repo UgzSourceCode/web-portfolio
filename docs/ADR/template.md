@@ -2,7 +2,7 @@
 [< Back to ADR's list](README.md)
 
 
-```
+```markdown
 # [ADR NAME]
 [< Back to ADR's list](README.md)
 

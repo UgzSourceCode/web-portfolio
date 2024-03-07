@@ -14,6 +14,15 @@ Some description
 
 The checked tasks have been finished, but the unchecked ones were started and not finished.
 
+## 08-03-2024
+### Tasks
+- [ ] PoC Linter - BiomeJS
+- [x] Created PoC document template - [PR#34](https://github.com/UgzSourceCode/web-portfolio/pull/34)
+- [ ] Created backlog in GitHub Projects
+- [ ] Planing features
+### Description
+I continue planning and improving documentation. Sill checking which decision is better.
+
 ## 07-03-2024
 ### Tasks
 - [ ] PoC Linter - BiomeJS
