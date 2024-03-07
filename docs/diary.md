@@ -14,6 +14,15 @@ Some description
 
 The checked tasks have been finished, but the unchecked ones were started and not finished.
 
+## 07-03-2024
+### Tasks
+- [ ] PoC Linter - BiomeJS
+- [ ] Created PoC document template
+- [ ] Created backlog in GitHub Projects
+- [ ] Planing features
+### Description
+I'm working on testing which linter would be better for this project. After that, I'll focus on planning and improving documentation.
+
 ## 06-03-2024
 ### Tasks
 - [x] Added ADR (How the component will be declared?) - [PR#28](https://github.com/UgzSourceCode/web-portfolio/pull/28)
