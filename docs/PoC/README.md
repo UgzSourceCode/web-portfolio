@@ -5,4 +5,4 @@
 Template for PoC should you found in [template document](template.md).
 
 ## List od PoC (never should be higher)
-- first PoC item
+- [001] [BiomeJS as linter and formatter](001-BiomeJS-linter.md)
