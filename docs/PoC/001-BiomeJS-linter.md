@@ -26,7 +26,14 @@ Link to project: https://biomejs.dev/
 `BiomeJS` is tool based on Rust stack, so I expect that this tool will be faster than eslint.
 
 ## Results for this PoC
-[description]
+
+
+- Formatting time
+- Lint fixing time
+- Lint checking time
+
+- Integrations with IDE
+Biome has plugins for a few IDEs. However, for the development of this project, I use WebStorm, which doesn't have a plugin.
 
 ## Observations
 [description]
