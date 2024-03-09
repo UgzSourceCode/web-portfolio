@@ -14,6 +14,15 @@ Some description
 
 The checked tasks have been finished, but the unchecked ones were started and not finished.
 
+## 09-03-2024
+### Tasks
+- [ ] PoC Linter - BiomeJS
+- [ ] PoC Linter - eslint
+- [ ] Created backlog in GitHub Projects
+- [ ] Planing features
+### Description
+I continue planning and improving documentation. Sill checking which decision is better.
+
 ## 08-03-2024
 ### Tasks
 - [ ] PoC Linter - BiomeJS
