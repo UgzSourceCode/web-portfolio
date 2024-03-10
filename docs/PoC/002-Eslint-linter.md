@@ -32,7 +32,7 @@ Eslint and Prettier are popular tools for JS stack. So I expect that this have a
 ## Results for this PoC
 - Formatting time
 
-![img.png](../../assets/prettier-time-format.png)
+![prettier-time-format.png](../../assets/prettier-time-format.png)
 For this command output was hidden. Because with list of files output is so long.
 
 Average user time: 513.3 ms
@@ -41,7 +41,7 @@ Maximum user time: 520.8 ms
 
 Example output for prettier:
 
-![img_1.png](../../assets/prettier-output-example.png)
+![prettier-output-example.png](../../assets/prettier-output-example.png)
 
 - Lint fixing time
 
@@ -61,5 +61,5 @@ Maximum user time: 2,741 s
 Eslint and Prettier has plugins for all IDE which I know.
 
 ## Observations
-1. Eslint have problem with files imported from public folder, for it is needed another configuration plugin or disable error.
-2. Eslint and prettier don't have big issues on GitHub issue page. Community is large, so in my opinion it's good option for big commercial projects.
+1. ESLint has a problem with files imported from the public folder, for which another configuration plugin is needed or errors should be disabled.
+2. ESLint and Prettier don't have many issues on their GitHub issue page. The community is large, so in my opinion, it's a good option for big commercial projects.
