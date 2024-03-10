@@ -18,6 +18,7 @@ The checked tasks have been finished, but the unchecked ones were started and no
 ### Tasks
 - [x] Added ADR (Which linter and formatter will be better?) - [PR#36](https://github.com/UgzSourceCode/web-portfolio/pull/36) 
 - [x] PoC Linter - eslint - [without PR - this work will be available on branch `PoC-eslilnt-linter`. Described [002-Eslint-linter.md](PoC/002-Eslint-linter.md)]
+- [x] Installed Biome as linter - [PR#39](https://github.com/UgzSourceCode/web-portfolio/pull/39)
 - [ ] Created backlog in GitHub Projects
 - [ ] Planing features
 ### Description
