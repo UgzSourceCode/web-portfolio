@@ -61,4 +61,5 @@ Maximum user time: 2,741 s
 Eslint and Prettier has plugins for all IDE which I know.
 
 ## Observations
-[description]
+1. Eslint have problem with files imported from public folder, for it is needed another configuration plugin or disable error.
+2. Eslint and prettier don't have big issues on GitHub issue page. Community is large, so in my opinion it's good option for big commercial projects.
