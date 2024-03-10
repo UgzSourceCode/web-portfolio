@@ -2,7 +2,7 @@
 [< Back to PoC's list](README.md)
 
 ## Link to ADR
-`placeholder for link`
+[005-which-linter-and-formatter-will-be-better.md](../ADR/005-which-linter-and-formatter-will-be-better.md)
 
 ## Branch name
 `PoC-biomejs-linter`
