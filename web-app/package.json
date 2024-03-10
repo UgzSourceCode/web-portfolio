@@ -6,7 +6,10 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "format": "npx @biomejs/biome format src --write",
+    "lint:check": "npx @biomejs/biome lint src",
+    "lint:fix": "npx @biomejs/biome lint src --aply"
   },
   "dependencies": {
     "react": "18.2.0",
