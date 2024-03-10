@@ -9,25 +9,30 @@ For good code quality, it is necessary to have a linter and code formatter. The 
 - Biome.js
 
 ### Eslint + Prettier 
-PoC link: 
+PoC link: [002-Eslint-linter.md](../PoC/002-Eslint-linter.md)
 
 Pros:
-- some pros
+- Support for many IEDs
+- Large community
+- Stability
 
 Cons:
-- some cons
+- Slow perfomance
 
 ### Biome.js
 PoC link: [001-BiomeJS-linter.md](../PoC/001-BiomeJS-linter.md)
 
 Pros:
-- some pros
+- Fast performance
+- Rapid improvement
+- Moderate-sized community
 
 Cons:
-- some cons
+- Have few important issue
+- Doesn't have plugin for WebStorm
 
 ## Suggestion
-[sugestion]
+For this project, we can use a library without strong support. This feature is not critical, and it can be changed later if something goes wrong.
 
 ## Decision Outcome
-[decision]
+BiomeJS has significantly better performance than ESLint with Prettier, and it has been tested on a small codebase. Therefore, for this project, I will use Biome.
