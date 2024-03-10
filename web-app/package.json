@@ -9,8 +9,8 @@
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "format": "npx @biomejs/biome format src --write",
-    "lint:fix": "npx @biomejs/biome lint src",
-    "lint:check": "npx @biomejs/biome check --apply src"
+    "lint:fix": "npx @biomejs/biome lint --apply src",
+    "lint:check": "npx @biomejs/biome lint src"
   },
   "dependencies": {
     "react": "^18.2.0",
