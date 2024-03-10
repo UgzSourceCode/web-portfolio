@@ -14,9 +14,18 @@ Some description
 
 The checked tasks have been finished, but the unchecked ones were started and not finished.
 
+## 10-03-2024
+### Tasks
+- [x] Added ADR (Which linter and formatter will be better?) - [PR#36](https://github.com/UgzSourceCode/web-portfolio/pull/36) 
+- [x] PoC Linter - eslint - [without PR - this work will be available on branch `PoC-eslilnt-linter`. Described [002-Eslint-linter.md](PoC/002-Eslint-linter.md)]
+- [ ] Created backlog in GitHub Projects
+- [ ] Planing features
+### Description
+I continue planning and improving documentation. Sill checking which decision is better.
+
 ## 09-03-2024
 ### Tasks
-- [ ] PoC Linter - BiomeJS
+- [x] PoC Linter - BiomeJS - [without PR - this work will be available on branch `PoC-biomejs-linter`. Described [001-BiomeJS-linter.md](PoC/001-BiomeJS-linter.md)]
 - [ ] PoC Linter - eslint
 - [ ] Created backlog in GitHub Projects
 - [ ] Planing features
