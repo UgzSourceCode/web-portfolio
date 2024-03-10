@@ -16,8 +16,8 @@ The checked tasks have been finished, but the unchecked ones were started and no
 
 ## 10-03-2024
 ### Tasks
-- [ ] Added ADR (Which linter and formatter will be better?) 
-- [ ] PoC Linter - eslint
+- [x] Added ADR (Which linter and formatter will be better?) - [PR#36](https://github.com/UgzSourceCode/web-portfolio/pull/36) 
+- [x] PoC Linter - eslint - [without PR - this work will be available on branch `PoC-eslilnt-linter`. Described [002-Eslint-linter.md](PoC/002-Eslint-linter.md)]
 - [ ] Created backlog in GitHub Projects
 - [ ] Planing features
 ### Description
