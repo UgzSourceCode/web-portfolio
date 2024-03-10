@@ -1,4 +1,4 @@
-# Eslint ad linter and Prettier as formatter 
+# Eslint as linter and Prettier as formatter 
 [< Back to PoC's list](README.md)
 
 ## Link to ADR
