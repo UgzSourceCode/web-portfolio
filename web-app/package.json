@@ -9,7 +9,7 @@
     "preview": "vite preview",
     "format": "npx @biomejs/biome format src --write",
     "lint:check": "npx @biomejs/biome lint src",
-    "lint:fix": "npx @biomejs/biome lint src --aply"
+    "lint:fix": "npx @biomejs/biome lint src --apply"
   },
   "dependencies": {
     "react": "18.2.0",
