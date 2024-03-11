@@ -5,6 +5,8 @@
 Template for ADR should you found in [template document](template.md).
 
 ## List of ADR (newer should be higher)
+- [006] [Which component library is better for this project?](006-which-component-library.md)
+- [005] [Which linter and formatter will be better?](005-which-linter-and-formatter-will-be-better.md)
 - [004] [How the component will be exported?](004-how-the-component-will-be-exported.md)
 - [003] [How the component will be declared?](003-how-the-component-will-be-declared.md)
 - [002] [Which language will be better for the frontend of the portfolio?](002-which-language-frontend.md)
