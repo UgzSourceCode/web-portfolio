@@ -17,7 +17,7 @@ The checked tasks have been finished, but the unchecked ones were started and no
 ## 11-03-2024
 ### Tasks
 - [x] Added ADR (Which component library is better for this project?) - [PR#43](https://github.com/UgzSourceCode/web-portfolio/pull/43)
-- [ ] Installed Chakra UI as component library
+- [x] Installed Chakra UI as component library - [PR#45](https://github.com/UgzSourceCode/web-portfolio/pull/45)
 - [ ] Created backlog in GitHub Projects
 - [ ] Planing features
 ### Description
