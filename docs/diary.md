@@ -14,6 +14,12 @@ Some description
 
 The checked tasks have been finished, but the unchecked ones were started and not finished.
 
+## 12-03-2024
+### Tasks
+- [ ] Research about translations library
+### Description
+Today, I don't have a lot of time, so I'm spending it on searching for alternative translation options for i18next.
+
 ## 11-03-2024
 ### Tasks
 - [x] Added ADR (Which component library is better for this project?) - [PR#43](https://github.com/UgzSourceCode/web-portfolio/pull/43)
