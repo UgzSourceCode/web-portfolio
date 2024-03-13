@@ -5,6 +5,7 @@
 Template for ADR should you found in [template document](template.md).
 
 ## List of ADR (newer should be higher)
+- [007] [007-which-library-for-translations.md](007-which-library-for-translations.md)
 - [006] [Which component library is better for this project?](006-which-component-library.md)
 - [005] [Which linter and formatter will be better?](005-which-linter-and-formatter-will-be-better.md)
 - [004] [How the component will be exported?](004-how-the-component-will-be-exported.md)
