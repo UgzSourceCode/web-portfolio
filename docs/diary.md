@@ -14,10 +14,19 @@ Some description
 
 The checked tasks have been finished, but the unchecked ones were started and not finished.
 
+## 14-03-2024
+### Tasks
+- [x] Installed and configured i18next - [PR#50](https://github.com/UgzSourceCode/web-portfolio/pull/50)
+- [ ] Created backlog in GitHub Projects
+- [ ] Planing features
+### Description
+I continue planning and improving documentation. Sill checking which decision is better.
+
 ## 13-03-2024
 ### Tasks
 - [x] Research about translations library 
 - [x] Added ADR (Which library for translation?) - [PR#47](https://github.com/UgzSourceCode/web-portfolio/pull/47)
+- [ ] Installed and configured i18next
 - [ ] Created backlog in GitHub Projects
 - [ ] Planing features
 ### Description
