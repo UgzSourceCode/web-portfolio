@@ -14,6 +14,15 @@ Some description
 
 The checked tasks have been finished, but the unchecked ones were started and not finished.
 
+## 13-03-2024
+### Tasks
+- [x] Research about translations library 
+- [x] Added ADR (Which library for translation?) - [PR#47](https://github.com/UgzSourceCode/web-portfolio/pull/47)
+- [ ] Created backlog in GitHub Projects
+- [ ] Planing features
+### Description
+I continue planning and improving documentation. Sill checking which decision is better.
+
 ## 12-03-2024
 ### Tasks
 - [ ] Research about translations library
