@@ -16,6 +16,7 @@ The checked tasks have been finished, but the unchecked ones were started and no
 
 ## 14-03-2024
 ### Tasks
+- [ ] Added ADR(Which flow is better for this project?)
 - [x] Installed and configured i18next - [PR#50](https://github.com/UgzSourceCode/web-portfolio/pull/50)
 - [ ] Created backlog in GitHub Projects
 - [ ] Planing features
