@@ -42,8 +42,6 @@ Cons:
 - Dependency on pull requests: While pull requests are a powerful collaboration tool, they can also introduce bottlenecks and delays if not managed effectively.
 - Potential for chaos: GitHub Flow's flexibility can lead to chaos if not accompanied by clear guidelines and discipline within the team, especially in larger projects or organizations.
 
-
-
 ## Suggestion
 For this project, the better option is a lightweight and flexible workflow because it's a small project that requires fast delivery of changes.
 
