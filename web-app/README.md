@@ -1,30 +1,51 @@
-# React + TypeScript + Vite
+# Web application part for portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Scripts
+### "dev"
+> [!NOTE]
+> dev script is for run dev server 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
+How to use it:
+```shell
+$ npm run dev
 ```
+### "build"
+> [!NOTE]
+> build script is for building production package
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+How to use it:
+```shell
+$ npm run build
+```
+### "preview"
+> [!NOTE]
+> preview is for locally preview production build
+
+How to use it:
+```shell
+$ npm run preview
+```
+### "format"
+> [!NOTE]
+> format is for formatting all (js, jsx, ts, tsx, json) files in src directory
+
+How to use it:
+```shell
+$ npm run format
+```
+### "lint:check"
+> [!NOTE]
+> lint:check is for only check linter in files (js, jsx, ts, tsx, json)
+
+How to use it:
+```shell
+$ npm run lint:check
+```
+### "lint:fix"
+> [!NOTE]
+> lint:fix is for check linter and fix in files (js, jsx, ts, tsx, json) 
+
+How to use it:
+```shell
+$ npm run lint:fix
+```
