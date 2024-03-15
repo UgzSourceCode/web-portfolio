@@ -14,6 +14,14 @@ Some description
 
 The checked tasks have been finished, but the unchecked ones were started and not finished.
 
+## 16-03-2024
+### Tasks
+- [x] Created web-app scripts description - [PR#53](https://github.com/UgzSourceCode/web-portfolio/pull/53) 
+- [ ] Created backlog in GitHub Projects
+- [ ] Planing features
+### Description
+I continue planning and improving documentation. Sill checking which decision is better.
+
 ## 15-03-2024
 ### Tasks
 - [x] Created GitHub Flow description - [PR#51](https://github.com/UgzSourceCode/web-portfolio/pull/51)
