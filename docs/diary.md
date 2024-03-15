@@ -14,6 +14,15 @@ Some description
 
 The checked tasks have been finished, but the unchecked ones were started and not finished.
 
+## 15-03-2024
+### Tasks
+- [ ] Created GitHub Flow description
+- [ ] Added ADR(Which flow is better for this project?)
+- [ ] Created backlog in GitHub Projects
+- [ ] Planing features
+### Description
+I continue planning and improving documentation. Sill checking which decision is better.
+
 ## 14-03-2024
 ### Tasks
 - [ ] Added ADR(Which flow is better for this project?)
