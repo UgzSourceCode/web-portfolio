@@ -14,8 +14,18 @@ Some description
 
 The checked tasks have been finished, but the unchecked ones were started and not finished.
 
+## 15-03-2024
+### Tasks
+- [x] Created GitHub Flow description - [PR#51](https://github.com/UgzSourceCode/web-portfolio/pull/51)
+- [x] Added ADR(Which flow is better for this project?) - [PR#51](https://github.com/UgzSourceCode/web-portfolio/pull/51)
+- [ ] Created backlog in GitHub Projects
+- [ ] Planing features
+### Description
+I continue planning and improving documentation. Sill checking which decision is better.
+
 ## 14-03-2024
 ### Tasks
+- [ ] Added ADR(Which flow is better for this project?)
 - [x] Installed and configured i18next - [PR#50](https://github.com/UgzSourceCode/web-portfolio/pull/50)
 - [ ] Created backlog in GitHub Projects
 - [ ] Planing features
