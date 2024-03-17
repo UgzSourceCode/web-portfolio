@@ -2,48 +2,43 @@
 [< Back to ADR's list](README.md)
 
 ## Context and  Problem Statement
-[statement]
+Many projects utilize Git hooks. I will prepare arguments for and against their use in this project.
 
 ## Considered Options
-- [Option 1]
-- [Option 2]
-- [Option 3]
-- [Option 4]
+- Yes
+- No
 
-### [Option 1]
-[description]
+### Yes 
+Using Git hooks in the project.
+
 Pros:
-- some pros
+- Provides automated checks and processes before commits or pushes, enhancing code quality.
+- Helps enforce project-specific standards and conventions, such as code formatting, linting, and testing requirements.
 
 Cons:
-- some cons
+- Requires initial setup and configuration, which may add overhead to project onboarding.
+- Misconfigured hooks or conflicting scripts could lead to unexpected behavior or errors.
+- May introduce delays if hooks are time-consuming or resource-intensive, impacting developer productivity.
+- Can sometimes be bypassed or disabled, potentially undermining their effectiveness in maintaining code quality.
 
-### [Option 2]
-[description]
+### No
+Not using Git hooks in the project.
+
 Pros:
-- some pros
+- Simplifies project setup and reduces initial configuration overhead, especially for newcomers to the project.
+- Avoids potential conflicts or unexpected behavior caused by misconfigured or conflicting hooks.
+- Developers maintain full control over their workflow, without automated processes potentially interfering with their preferred practices.
+- Eliminates the risk of hooks introducing delays or performance issues, as they are not executed automatically with each git action.
+
 
 Cons:
-- some cons
-
-### [Option 3]
-[description]
-Pros:
-- some pros
-
-Cons:
-- some cons
-
-### [Option 4]
-[description]
-Pros:
-- some pros
-
-Cons:
-- some cons
+- Misses out on automated checks and processes that could enhance code quality and enforce project standards.
+- Increases reliance on manual interventions for tasks such as code formatting, linting, and testing, potentially leading to inconsistencies.
+- Requires developers to remember to run these checks and processes manually, which could result in oversight or neglect.
+- May lead to inconsistency across development environments if developers have different setups or preferences.
 
 ## Suggestion
-[sugestion]
+In the project, a linter and formatter (biome) have been used without a plugin for WebStorm. Therefore, for better quality control, Git hooks would be a good improvement.
 
 ## Decision Outcome
-[decision]
+In this project, Git hooks will be used to resolve the issue with the unavailability of the Biome plugin for WebStorm. Checking linting and formatting in the current project is quite fast, so it's not a problem.
