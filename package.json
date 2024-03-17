@@ -1,0 +1,16 @@
+{
+  "name": "web-portfolio",
+  "version": "0.0.1",
+  "description": "This is a simple portfolio app designed to showcase my projects and skills.",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "prepare": "husky"
+  },
+  "author": "Piotr 'Ugz' Bielski",
+  "license": "CC-BY-4.0 license",
+  "devDependencies": {
+    "husky": "9.0.11"
+  }
+}
