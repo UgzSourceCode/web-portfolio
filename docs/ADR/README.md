@@ -5,6 +5,8 @@
 Template for ADR should you found in [template document](template.md).
 
 ## List of ADR (newer should be higher)
+- [010] [Which git hook tool are better for this project?](010-which-git-hook-tool.md)
+- [009] [Are git hooks necessary?](009-are-git-hooks-necessary)
 - [008] [Which flow is better for this project?](008-which-flow.md)
 - [007] [Which library for translation?](007-which-library-for-translations.md)
 - [006] [Which component library is better for this project?](006-which-component-library.md)
