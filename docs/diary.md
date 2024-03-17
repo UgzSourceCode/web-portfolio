@@ -17,6 +17,8 @@ The checked tasks have been finished, but the unchecked ones were started and no
 ## 17-03-2024
 - [x] Added ADR(Are git hooks necessary?) - [PR#56](https://github.com/UgzSourceCode/web-portfolio/pull/56)
 - [x] Added ADR(Which git hook tool are better for this project?) - [PR#56](https://github.com/UgzSourceCode/web-portfolio/pull/56)
+- [x] Installed husky - [PR#58](https://github.com/UgzSourceCode/web-portfolio/pull/58)
+- [x] Added linter and formatter check to pre commit - [PR#58](https://github.com/UgzSourceCode/web-portfolio/pull/58)
 - [ ] Created backlog in GitHub Projects
 - [ ] Planing features
 ### Description
