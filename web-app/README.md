@@ -25,6 +25,14 @@ How to use it:
 ```shell
 $ npm run preview
 ```
+### "format:check"
+> [!NOTE]
+> format:check is for check formatting all (js, jsx, ts, tsx, json) files in src directory
+
+How to use it:
+```shell
+$ npm run format:check
+```
 ### "format"
 > [!NOTE]
 > format is for formatting all (js, jsx, ts, tsx, json) files in src directory

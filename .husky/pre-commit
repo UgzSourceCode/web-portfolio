@@ -1,0 +1,2 @@
+npm run format:check --prefix web-app
+npm run lint:check --prefix web-app

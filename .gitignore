@@ -6,11 +6,25 @@ web-app/yarn-debug.log*
 web-app/yarn-error.log*
 web-app/pnpm-debug.log*
 web-app/lerna-debug.log*
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
 
+# web-app files
 web-app/node_modules
 web-app/dist
 web-app/dist-ssr
 web-app/*.local
+
+# root project files
+node_modules
+dist
+dist-ssr
+*.local
 
 # Editor directories and files
 .vscode/*
