@@ -14,6 +14,14 @@ Some description
 
 The checked tasks have been finished, but the unchecked ones were started and not finished.
 
+## 17-03-2024
+- [x] Added ADR(Are git hooks necessary?) - [PR#56](https://github.com/UgzSourceCode/web-portfolio/pull/56)
+- [x] Added ADR(Which git hook tool are better for this project?) - [PR#56](https://github.com/UgzSourceCode/web-portfolio/pull/56)
+- [ ] Created backlog in GitHub Projects
+- [ ] Planing features
+### Description
+I continue planning and improving documentation. Sill checking which decision is better.
+
 ## 16-03-2024
 ### Tasks
 - [x] Created web-app scripts description - [PR#53](https://github.com/UgzSourceCode/web-portfolio/pull/53) 
