@@ -14,7 +14,14 @@ Some description
 
 The checked tasks have been finished, but the unchecked ones were started and not finished.
 
+## 18-03-2024
+### Tasks
+- [x] Updated clone and run mock description
+### Description
+Today I have lazy day after work, so I only read about storybook and updated root readme.
+
 ## 17-03-2024
+### Tasks
 - [x] Added ADR(Are git hooks necessary?) - [PR#56](https://github.com/UgzSourceCode/web-portfolio/pull/56)
 - [x] Added ADR(Which git hook tool are better for this project?) - [PR#56](https://github.com/UgzSourceCode/web-portfolio/pull/56)
 - [x] Installed husky - [PR#58](https://github.com/UgzSourceCode/web-portfolio/pull/58)
