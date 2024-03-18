@@ -1,7 +1,7 @@
 <img src="assets/portfolio-2903909_640.png" alt="web-portfolio logo" title="portfolio-logo" align="right" height="60" />
 
 # Portfolio App
-⭐ Star us on GitHub — it motivates us a lot!
+⭐ Star me on GitHub — it motivates me a lot!
 
 This is a simple portfolio app designed to showcase my projects and skills.
 
@@ -58,24 +58,38 @@ I'm going to do few small projects, and portfolio is way to present my person, s
   - [ ] Send mail from contact form to my mail
 
 ## Quick start
+### Cloning repository and install dependencies
+
+`placeholder for gif`
+
+1. Clone the web-portfolio repository:
+```shell
+git clone git@github.com:UgzSourceCode/web-portfolio.git
+```
+2. Navigate to `web-portfolio` folder:
+```shell
+cd web-portfolio
+```
+3. Install global dependencies
+```shell
+npm i
+```
+4. Navigate to `web-app` folder:
+```shell
+cd web-app
+```
+5. Install `web-app` dependencies:
+```shell
+npm i
+```
+
 ### Running the Mock Web Application
 
 ![run-dev.gif](assets%2Frun-dev.gif)
 
-1. Clone the web-portfolio repository:
-```
-git clone https://github.com/UgzSourceCode/web-portfolio.git
-```
-2. Navigate to the `web-app` folder:
-```
-cd web-portfolio
-cd web-app
-```
-3. Install dependencies
-```
-npm i
-```
-4. Run the developer server with mocks:
+1. Clone the repository like in [Cloning repository and install dependencies](#cloning-repository-and-install-dependencies)
+2. Navigate to `web-app' folder:
+3. Run the developer server with mocks:
 ```
 npm run dev
 ```
