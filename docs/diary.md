@@ -14,6 +14,12 @@ Some description
 
 The checked tasks have been finished, but the unchecked ones were started and not finished.
 
+## 19-03-2024
+### Tasks
+- [ ] Created file structure description
+### Description
+Today, I focused on researching file structures and I tried to choose the best one for this project. I will continue tomorrow.
+
 ## 18-03-2024
 ### Tasks
 - [x] Updated clone and run mock description
