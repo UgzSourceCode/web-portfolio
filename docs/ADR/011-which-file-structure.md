@@ -1,0 +1,93 @@
+# [011] Which file structure is better for this project?
+[< Back to ADR's list](README.md)
+
+## Context and  Problem Statement
+I know two ways (domain-oriented and technology-oriented) to build file structure in project. Both of them have some pros and cons, so I must decide which is better for this project.
+
+## Considered Options
+- Technology-oriented
+- Domain-oriented
+
+### Technology-oriented 
+#### Example
+```shell
+/Project
+├── backend/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── utils/
+│   └── tests/
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── styles/
+│   │   └── utils/
+│   └── tests/
+├── database/
+│   ├── migrations/
+│   └── seeds/
+├── config/
+│   ├── server.config.js
+│   ├── database.config.js
+│   └── frontend.config.js
+├── scripts/
+│   ├── deployment.sh
+│   └── backup.sh
+└── README.md
+```
+
+Pros:
+- Easier understanding of technological aspects of the project
+- Division of responsibilities based on skills - easier team management
+
+Cons:
+- Difficulty in understanding the business logic
+- Changes in business requirements may require significant changes in the project structure, leading to complex project maintenance
+
+### Domain-oriented
+#### Example
+```shell
+/Project
+├── authentication/
+│   ├── controllers/
+│   ├── services/
+│   ├── validators/
+│   └── tests/
+├── user-management/
+│   ├── controllers/
+│   ├── services/
+│   ├── validators/
+│   └── tests/
+├── payment/
+│   ├── controllers/
+│   ├── services/
+│   ├── validators/
+│   └── tests/
+├── inventory/
+│   ├── controllers/
+│   ├── services/
+│   ├── validators/
+│   └── tests/
+├── config/
+│   ├── server.config.js
+│   └── database.config.js
+└── README.md
+```
+
+Pros:
+- Organizing the project by business domains makes it easier to understand how individual parts of the project collaborate to support specific business functionalities
+- Domain-oriented structure enables quicker response to changes in business requirements, as changes affecting specific domains can be more easily isolated and managed
+- Easier refactor or change technology
+
+Cons:
+- Focusing on specific business domains may lead to greater technical complexity in the project, especially when different domains require different technologies or technological approaches
+- Domain-oriented structure may pose challenges in clearly dividing responsibilities within the team based on technical skills, potentially requiring flexibility in task execution among team members
+
+## Suggestion
+This project need some options for easier refactor and faster adaptation to changes.
+
+## Decision Outcome
+For this project, a domain-oriented file structure was chosen.
