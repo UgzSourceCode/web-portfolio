@@ -26,21 +26,23 @@ This document should describe structure of directories and files.
 │   │   ├── README.md                         # List of PoC description
 │   │   ├── template.md                       # Template for PoC description
 │   ├── adl.md                                # File with description Architecture Description Language (ADL)
-│   ├── assumptoins.md                        # File containing a list of fundamental assumptions adopted in the project 
+│   ├── assumptions.md                        # File containing a list of fundamental assumptions adopted in the project 
 │   ├── diary.md                              # File containing notes from every day when I working on this project
 │   ├── file-structure.md                     # File containing file structure description
-│   ├── frontend-file-structure               # File containing file structure description for web-app (frontend)
+│   ├── frontend-file-structure.md            # File containing file structure description for web-app (frontend)
 │   ├── git-branching.md                      # File containing procedures work with git (description how to create branch, PR and issues)
 │   └── README.md                             # File containing contents of documentation
 ├── web-app/                                  # Dictionary containing frontend part of project
 ├── .gitignore                                # Configuration git file - files to not observe by git
 ├── LICENSE                                   # File with License of this source code
-├── package-lock.json                         #
-├── package.json                              #
+├── package-lock.json                         # Configuration file for node.js
+├── package.json                              # Configuration file for node.js
 └── README.md                                 # README file for this repo
 ```
 
 ## `.husky`
+
+
 ## `assets`
 ## `docs`
 ### `docs/ADR`
