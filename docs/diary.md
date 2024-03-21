@@ -14,6 +14,13 @@ Some description
 
 The checked tasks have been finished, but the unchecked ones were started and not finished.
 
+## 21-03-2024
+### Tasks
+- [ ] Created file structure description
+### Description
+I am still working on defining the file structure for my research. So many times I have used a technology-oriented structure, but this time I am considering a domain-oriented structure.
+
+
 ## 20-03-2024
 ### Tasks
 - [ ] Created file structure description
