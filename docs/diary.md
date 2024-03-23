@@ -14,13 +14,18 @@ Some description
 
 The checked tasks have been finished, but the unchecked ones were started and not finished.
 
+## 23-03-2024
+### Tasks
+- [ ] Created file structure description
+### Description
+I am still working on defining the file structure for my research. So many times I have used a technology-oriented structure, but this time I am considering a domain-oriented structure.
+
 ## 22-03-2024
 ### Tasks
 - [ ] Created file structure description
 - [x] Added "feature description" template - [PR#66](https://github.com/UgzSourceCode/web-portfolio/pull/66)
 ### Description
 I am still working on defining the file structure for my research. So many times I have used a technology-oriented structure, but this time I am considering a domain-oriented structure.
-
 
 ## 21-03-2024
 ### Tasks
