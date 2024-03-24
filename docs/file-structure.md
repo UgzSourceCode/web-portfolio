@@ -24,7 +24,7 @@ This document should describe structure of directories and files.
 │   │   ├── 001-BiomeJS-linter.md             # Example file with PoC description
 │   │   ├── ...                               # All other files
 │   │   ├── README.md                         # List of PoC description
-│   │   ├── template.md                       # Template for PoC description
+│   │   └── template.md                       # Template for PoC description
 │   ├── adl.md                                # File with description Architecture Description Language (ADL)
 │   ├── assumptions.md                        # File containing a list of fundamental assumptions adopted in the project 
 │   ├── diary.md                              # File containing notes from every day when I working on this project
