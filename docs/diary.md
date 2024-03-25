@@ -14,6 +14,14 @@ Some description
 
 The checked tasks have been finished, but the unchecked ones were started and not finished.
 
+## 25-03-2024
+### Tasks
+- [ ] Created file structure description
+- [ ] Created backlog in GitHub Projects
+- [ ] Planing features
+### Description
+I am still working on defining the file structure for my research. So many times I have used a technology-oriented structure, but this time I am considering a domain-oriented structure.
+
 ## 24-03-2024
 ### Tasks
 - [ ] Created file structure description
