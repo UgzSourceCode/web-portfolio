@@ -24,7 +24,7 @@ This document should describe structure of directories and files.
 │   │   ├── 001-BiomeJS-linter.md             # Example file with PoC description
 │   │   ├── ...                               # All other files
 │   │   ├── README.md                         # List of PoC description
-│   │   ├── template.md                       # Template for PoC description
+│   │   └── template.md                       # Template for PoC description
 │   ├── adl.md                                # File with description Architecture Description Language (ADL)
 │   ├── assumptions.md                        # File containing a list of fundamental assumptions adopted in the project 
 │   ├── diary.md                              # File containing notes from every day when I working on this project
@@ -41,17 +41,25 @@ This document should describe structure of directories and files.
 ```
 
 ## `.husky`
-
+This directory contains configuration files for Husky along with Git hooks scripts. For more information, refer to the [Husky documentation](https://typicode.github.io/husky/how-to.html).
 
 ## `assets`
+This directory contains assets for Markdown files, such as example pictures, PDF documents, etc.
+
 ## `docs`
+This directory contains documentation for the project.
+
 ### `docs/ADR`
+This directory is a part of documentation, inside contains Architecture Decision Record (ADR).
+
 ### `docs/feature-description`
+This directory is a part of the documentation and contains descriptions of features.
+
 ### `docs/PoC`
+This directory is a part of documentation and contains descriptions of PoCs.
+
 ## `web-app`
 More about it inside [docs/frontend-file-structure.md](frontend-file-structure.md)
-## root files
-### ``
 
 ## In the feature
 If this project need some backend then probably should be in `api` dictionary.
