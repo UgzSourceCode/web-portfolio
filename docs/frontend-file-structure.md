@@ -2,22 +2,40 @@
 
 ## Example
 ```shell
-/
-├── public/                        # Directory containing configuration of Git hooks in Husky 
-│   └── pre-commit                 # Plik opisujący akcje wykonywane przed zatwierdzeniem zmian (np. lintowanie)
-├── src/                        # Directory containing additional files for Markdown documents
-│   ├── github-flow-diagram.png    # Example file in assets
-│   └── ...                        # All other files
-├── docs/                          # Folder z dokumentacją
-│   ├── ADR/                       # Folder z Architekturą Decyzji Rejestracji (ADR)
-│   ├── feature-description/       # Dictionary containing business requirements related to functionality
-│   ├── PoC/                       # Folder z opisami Proof of Concept (PoC)
-│   ├── adl.md                     # Plik z opisem Architektury Drzewa Decyzji (ADL)
-│   └── git-branching.md           # Plik z opisem tworzenia branchy, PR i issues
-├── web-app/                       # Folder z aplikacją frontendową (struktura opisana gdzie indziej)
-├── .gitignore                     # Plik konfiguracyjny Git ignorujący określone pliki i katalogi
-├── LICENSE                        # File with License of this source code
-├── package-lock.json              # Plik konfiguracyjny Git ignorujący określone pliki i katalogi
-├── package.json                   # Plik konfiguracyjny npm dla biblioteki Husky
-└── README.md                      # Plik konfiguracyjny npm dla biblioteki Husky
+/ web-app
+├── public/                         # This directory contains all file which should be public on website
+│   └── locales                     # This directory contains all translations files
+│   │   ├── en                      # This directory contains all English translations files 
+│   │   │     └── translation.json  # This file contains translations data for English language
+│   │   ├── pl                      # This directory contains all Polish translations files
+│   │   │     └── translation.json  # This file contains translations data for Polish language
+├── src/                            # Directory containing source files 
+│   ├── App/                        #
+│   │   ├── Footer/                 #
+│   │   ├── Header/                 #
+│   │   ├── BodyContainer/          #
+│   │   └── ...                     # 
+│   ├── AboutMe/                    #
+│   │   ├── LinkSection/            #
+│   │   ├── DescriptionSection/     #
+│   │   ├── SkillSection/           #
+│   │   ├── indes.ts                # File 
+│   │   └── ...                     # Another files to  
+│   ├── theme/                      #
+│   ├── shared-components/          #
+│   ├── i18n.ts                     #
+│   ├── index.css                   #
+│   ├── main.tsx                    #
+│   └── vite-env.d.ts               # 
+├── biome.json                      #
+├── index.html                      #
+├── package.json                    #
+├── package-lock.json               #
+├── README.md                       #
+├── tsconfig.json                   #
+├── tsconfig.node.json              #
+└── vite.config.ts                  #
 ```
+
+## Description of frontend file structure
+[will be done in the feature]
