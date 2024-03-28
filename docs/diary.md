@@ -17,6 +17,7 @@ The checked tasks have been finished, but the unchecked ones were started and no
 ## 28-03-2024
 ### Tasks
 - [x] Created file structure description - [PR#72](https://github.com/UgzSourceCode/web-portfolio/pull/72)
+- [x] Refactored example in frontend file structure - [PR#74](https://github.com/UgzSourceCode/web-portfolio/pull/74)
 - [ ] Created backlog in GitHub Projects
 - [ ] Planing features
 ### Description
