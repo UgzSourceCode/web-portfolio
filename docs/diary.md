@@ -241,7 +241,7 @@ Today I focused on planning and gathering assumptions.
 
 ## 01-03-2024
 ### Tasks
-- [x] Initialize React App - [PR#2](https://github.com/UgzSourceCode/web-portfolio/pull/2)
+- [x] Initialize React AppLayout - [PR#2](https://github.com/UgzSourceCode/web-portfolio/pull/2)
 - [x] Prepared .gitignore - [commit f780f7c](https://github.com/UgzSourceCode/web-portfolio/commit/f780f7ce59acbdb352f6cfe267ede9f014dc8afe)
 - [ ] Prepared descriptions in [root README.md](../README.md)
 - [ ] Created backlog in GitHub Projects

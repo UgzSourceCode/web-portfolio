@@ -1,6 +1,6 @@
 <img src="assets/portfolio-2903909_640.png" alt="web-portfolio logo" title="portfolio-logo" align="right" height="60" />
 
-# Portfolio App
+# Portfolio AppLayout
 ⭐ Star me on GitHub — it motivates me a lot!
 
 This is a simple portfolio app designed to showcase my projects and skills.
