@@ -10,6 +10,7 @@
 │   │   ├── pl                      # This directory contains all Polish translations files
 │   │   │     └── translation.json  # This file contains translations data for the Polish language
 ├── src/                            # Directory containing source files 
+│   ├── Assets/                     # This directory contains additional files like e.g. images.
 │   ├── App/                        # This directory contains files for App component and directories with components for this component
 │   │   ├── Footer/                 # This directory contains files for Footer component
 │   │   │   ├── ...                 # All files related to the Footer component like component.tsx
