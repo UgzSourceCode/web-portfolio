@@ -10,8 +10,7 @@
 │   │   ├── pl                      # This directory contains all Polish translations files
 │   │   │     └── translation.json  # This file contains translations data for the Polish language
 ├── src/                            # Directory containing source files 
-│   ├── Assets/                     # This directory contains additional files, such as images.
-│   ├── App/                        # This directory contains files for App component and directories with components for this component
+│   ├── AppLayout/                        # This directory contains files for AppLayout component and directories with components for this component
 │   │   ├── Footer/                 # This directory contains files for Footer component
 │   │   │   ├── ...                 # All files related to the Footer component like component.tsx
 │   │   │   └── index.ts            # API file which should re-export public elements from other files in the same directory
@@ -21,8 +20,9 @@
 │   │   ├── BodyContainer/          # Directory containing files for the BodyContainer component
 │   │   │   ├── ...                 # All files related to the BodyContainer component
 │   │   │   └── index.ts            # API file which should re-export public elements from other files in the same directory
-│   │   ├── ...                     # Other files related to the App component
+│   │   ├── ...                     # Other files related to the AppLayout component
 │   │   └── index.ts                # API file which should re-export public elements from other files in the same directory
+│   ├── Assets/                     # This directory contains additional files, such as images.
 │   ├── AboutMe/                    # Directory containing files for the AboutMe section
 │   │   ├── LinkSection/            # Directory containing files for the LinkSection component
 │   │   │   ├── ...                 # All files related to the LinkSection component
@@ -35,7 +35,7 @@
 │   │   │   └── index.ts            # API file which should re-export public elements from other files in the same directory
 │   │   ├── ...                     # Other files related to the AboutMe section
 │   │   └── indes.ts                # API file which should re-export public elements from other files in the same directory
-│   ├── theme/                      # Directory containing theme-related files
+│   ├── Theme/                      # Directory containing Theme-related files
 │   │   ├── colors.ts               # File containing color constants
 │   │   └── index.ts                # API file which should re-export public elements from other files in the same directory
 │   ├── shared-atomic-components/   # Directory containing shared atomic components used across the application

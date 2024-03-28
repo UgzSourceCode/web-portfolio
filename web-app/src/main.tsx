@@ -1,9 +1,9 @@
 import React, { Suspense } from "react";
 import ReactDOM from "react-dom/client";
-import { App } from "./App.tsx";
+import { AppLayout } from "./App";
 import "./index.css";
 import { ChakraProvider } from "@chakra-ui/react";
-import { theme } from "./theme";
+import { theme } from "./Theme";
 
 import "./i18n.ts";
 
@@ -13,7 +13,7 @@ if (rootContainer) {
 		<React.StrictMode>
 			<ChakraProvider theme={theme}>
 				<Suspense fallback="Loading...">
-					<App />
+					<AppLayout />
 				</Suspense>
 			</ChakraProvider>
 		</React.StrictMode>,

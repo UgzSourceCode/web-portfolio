@@ -1,10 +1,10 @@
 import { useState } from "react";
-import reactLogo from "./assets/react.svg";
+import reactLogo from "../Assets/react.svg";
 import viteLogo from "/vite.svg";
 import "./App.css";
 import { useTranslation } from "react-i18next";
 
-export const App = () => {
+export const AppLayout = () => {
 	const { t } = useTranslation();
 	const [count, setCount] = useState(0);
 
