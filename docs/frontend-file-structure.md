@@ -52,8 +52,22 @@
 └── vite.config.ts                  # Vite configuration file
 ```
 
-## Description of frontend file structure
-[will be done in the feature]
+## Creating Folders and Files for New Components
+When creating new components in the project, it's essential to follow a consistent folder and file structure to maintain organization and facilitate collaboration. Below are the steps to create folders and files for new components:
+
+1. Choose a Descriptive Name: Start by choosing a descriptive name for your new component. This name should reflect the purpose or functionality of the component.
+2. Create a New Folder: Within the appropriate directory (as low in the directory structure as possible, e.g., if this component will only be used within another component, then it should be created inside the parent component's directory), create a new folder with the name of your component. This folder will contain all files related to the component.
+3. Component Files: Inside the component folder, create the necessary files for your component. Typical files may include:
+   * Component File: This file contains the main logic and structure of the component. It usually has a .tsx extension for TypeScript-based projects or .jsx for JavaScript-based projects. Name this file after your component, e.g., MyComponent.tsx.
+   * Stylesheet: If your component requires specific styles, create a separate theme file. You can name it `theme.ts`.
+   * Tests: If writing tests for your component, create a test file within the component folder. You can name it `test.ts`.
+   * Other Supporting Files: Depending on your project requirements, you may need additional files such as constants or utility functions specific to your component. Assets like images should be placed in the `src/assets` directory.
+   * Index File: Consider creating an index.ts file within the component folder. This file can serve as an API file to re-export public elements from other files within the same directory, promoting encapsulation and simplifying imports.
+
+By following this structure, you ensure consistency and clarity in your project's codebase. Each component resides in its own folder, making it easier to locate and modify specific parts of the application. Additionally, adopting naming conventions and including optional index files can enhance code readability and maintainability.
 
 ## API File
 This file should export all elements from other files in this directory. These exports reduce the number of imports required.
+
+## Moving component
+If your component will be used in another place too, then move it to common directory as low in the directory structure as possible.
