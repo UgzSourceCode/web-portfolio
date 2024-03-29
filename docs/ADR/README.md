@@ -5,6 +5,7 @@
 Template for ADR should you found in [template document](template.md).
 
 ## List of ADR (newer should be higher)
+- [012] [Is component documentation a good idea?](012-is-component-documentation-a-good-idea.md)
 - [011] [Which file structure is better for this project?](011-which-file-structure.md)
 - [010] [Which git hook tool are better for this project?](010-which-git-hook-tool.md)
 - [009] [Are git hooks necessary?](009-are-git-hooks-necessary)
