@@ -1,7 +1,7 @@
 import { useState } from "react";
 import reactLogo from "../Assets/react.svg";
 import viteLogo from "/vite.svg";
-import "./App.css";
+import "./styles.css";
 import { useTranslation } from "react-i18next";
 
 export const AppLayout = () => {
