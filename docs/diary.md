@@ -14,6 +14,14 @@ Some description
 
 The checked tasks have been finished, but the unchecked ones were started and not finished.
 
+## 29-03-2024
+### Tasks
+- [x] Created ADR about component documentation
+- [ ] Created backlog in GitHub Projects
+- [ ] Planing features
+### Description
+Today I have hard day, so in project I focused on storybook and idea of components presentation.
+
 ## 28-03-2024
 ### Tasks
 - [x] Created file structure description - [PR#72](https://github.com/UgzSourceCode/web-portfolio/pull/72)
