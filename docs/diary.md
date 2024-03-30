@@ -14,9 +14,15 @@ Some description
 
 The checked tasks have been finished, but the unchecked ones were started and not finished.
 
+## 30-03-2024
+### Tasks
+- [x] Failed installation of Docz - [PR#78](https://github.com/UgzSourceCode/web-portfolio/pull/78)
+### Description
+Today, I have focused on documenting components.
+
 ## 29-03-2024
 ### Tasks
-- [x] Created ADR about component documentation
+- [x] Created ADR about component documentation -[PR#75](https://github.com/UgzSourceCode/web-portfolio/pull/75)
 - [ ] Created backlog in GitHub Projects
 - [ ] Planing features
 ### Description
