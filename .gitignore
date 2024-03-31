@@ -39,3 +39,4 @@ dist-ssr
 
 # Storybook
 *storybook.log
+web-app/storybook-static
