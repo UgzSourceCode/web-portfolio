@@ -10,7 +10,9 @@
     "format": "npx @biomejs/biome format src --write",
     "format:check": "npx @biomejs/biome format src",
     "lint:check": "npx @biomejs/biome lint src",
-    "lint:fix": "npx @biomejs/biome lint src --apply"
+    "lint:fix": "npx @biomejs/biome lint src --apply",
+    "storybook": "storybook dev -p 6006",
+    "storybook:build": "storybook build"
   },
   "dependencies": {
     "@chakra-ui/react": "2.8.2",
@@ -26,11 +28,21 @@
   },
   "devDependencies": {
     "@biomejs/biome": "1.6.0",
+    "@chromatic-com/storybook": "1.2.25",
+    "@storybook/addon-essentials": "8.0.5",
+    "@storybook/addon-interactions": "8.0.5",
+    "@storybook/addon-links": "8.0.5",
+    "@storybook/addon-onboarding": "8.0.5",
+    "@storybook/blocks": "8.0.5",
+    "@storybook/react": "8.0.5",
+    "@storybook/react-vite": "^8.0.5",
+    "@storybook/test": "^8.0.5",
     "@types/react": "18.2.56",
     "@types/react-dom": "18.2.19",
     "@typescript-eslint/eslint-plugin": "7.0.2",
     "@typescript-eslint/parser": "7.0.2",
     "@vitejs/plugin-react": "4.2.1",
+    "storybook": "^8.0.5",
     "typescript": "5.2.2",
     "vite": "5.1.4"
   }

@@ -57,3 +57,21 @@ How to use it:
 ```shell
 $ npm run lint:fix
 ```
+
+### "storybook"
+> [!NOTE]
+> storybook is for run local server with components documentation
+
+How to use it:
+```shell
+$ npm run storybook
+```
+
+### "storybook:build"
+> [!NOTE]
+> storybook:build is for build static content for hosting components documentation
+
+How to use it:
+```shell
+$ npm run storybook:build
+```

@@ -14,6 +14,12 @@ Some description
 
 The checked tasks have been finished, but the unchecked ones were started and not finished.
 
+## 31-03-2024
+### Tasks
+- [x] Installed storybook - [PR#80](https://github.com/UgzSourceCode/web-portfolio/pull/80)
+### Description
+Today, once again, I focused on documenting components.
+
 ## 30-03-2024
 ### Tasks
 - [x] Failed installation of Docz - [PR#78](https://github.com/UgzSourceCode/web-portfolio/pull/78)
