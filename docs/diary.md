@@ -14,6 +14,13 @@ Some description
 
 The checked tasks have been finished, but the unchecked ones were started and not finished.
 
+## 01-04-2024
+### Tasks
+- [x] Created "Summary of architectural decisions" - [PR#86](https://github.com/UgzSourceCode/web-portfolio/pull/86)
+- [ ] UX design research
+### Description
+Today, I have focused on documenting UX and created summary from ADR's.
+
 ## 31-03-2024
 ### Tasks
 - [x] Installed storybook - [PR#80](https://github.com/UgzSourceCode/web-portfolio/pull/80)
