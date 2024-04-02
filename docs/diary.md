@@ -14,7 +14,14 @@ Some description
 
 The checked tasks have been finished, but the unchecked ones were started and not finished.
 
-## [date]
+## 03-04-2024
+### Tasks
+- [x] Fixed docs/README.md links - [PR#89](https://github.com/UgzSourceCode/web-portfolio/pull/89) 
+- [ ] Research ux
+### Description
+Today, I have focused on documenting UX.
+
+## 02-04-2024
 ### Tasks
 - [x] Fixed back links in docs - [PR#88](https://github.com/UgzSourceCode/web-portfolio/pull/88)
 - [ ] Research ux
