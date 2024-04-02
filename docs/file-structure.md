@@ -1,4 +1,5 @@
 # File structure
+[< Back to Documentation README](README.md)
 This document should describe structure of directories and files.
 
 ## Example
