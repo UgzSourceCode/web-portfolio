@@ -1,4 +1,5 @@
 # GitHub Flow
+[< Back to Documentation README](README.md)
 
 The GitHub Flow workflow defines a strict branching model designed aroud the project relase.
 
