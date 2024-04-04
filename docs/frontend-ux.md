@@ -1,5 +1,8 @@
 # UX
 
+## Table of content
+1. 
+
 ## Found designs
 ### SinanTokmak Web Developer Portfolio Website Template
 Link: https://www.figma.com/community/file/1308624569713896610
@@ -25,3 +28,6 @@ Link: https://www.figma.com/community/file/1095297962086392253
 
 ### Personal Portfolio Website
 Link: https://www.figma.com/community/file/1046281425042561033
+
+### Conclusion from all designs
+Better way is use some classic design for this portfolio, because I don't have plan update and change it often after finish.
