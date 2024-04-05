@@ -31,3 +31,20 @@ Link: https://www.figma.com/community/file/1046281425042561033
 
 ### Conclusion from all designs
 Better way is use some classic design for this portfolio, because I don't have plan update and change it often after finish.
+
+## Found another portfolios
+
+### Frontend web developer portfolio
+Link: https://www.norbertzegan.com/
+
+### Frontend developer portfolio
+Link: https://www.janusmarcin.pl/
+
+### Product Designer portfolio
+Link: https://www.seanhalpin.xyz/
+
+### Digital Designer & frontend developer portfolio
+Link: http://mrcthms.com/?ref=hackernoon.com
+
+### Senior frontend developer
+Link: https://brittanychiang.com/
