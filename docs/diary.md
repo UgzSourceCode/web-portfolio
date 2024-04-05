@@ -14,11 +14,17 @@ Some description
 
 The checked tasks have been finished, but the unchecked ones were started and not finished.
 
+## 06-04-2024
+### Tasks
+- [ ] Research ux
+### Description
+Today, I have been researching portfolio templates.
+
 ## 05-04-2024
 ### Tasks
 - [ ] Research ux
 ### Description
-Today, I have searching done portfolio web apps.
+Today, I have been researching portfolio web apps.
 
 ## 04-04-2024
 ### Tasks
