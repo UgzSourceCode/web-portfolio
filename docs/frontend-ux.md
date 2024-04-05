@@ -44,7 +44,28 @@ Link: https://www.janusmarcin.pl/
 Link: https://www.seanhalpin.xyz/
 
 ### Digital Designer & frontend developer portfolio
-Link: http://mrcthms.com/?ref=hackernoon.com
+Link: http://mrcthms.com/
 
 ### Senior frontend developer
 Link: https://brittanychiang.com/
+
+### Some web developers group
+Link: https://animalmade.com/
+
+## Found templates
+
+### Whosbl33h by Sara Echeverría
+Link to demo: https://whosbl33h.netlify.app/
+Link to template: https://github.com/bl33h/whosbl33h
+
+### Slick Portfolio Svelte by Riadh Adrani
+Link to demo: https://riadhadrani.github.io/slick-portfolio-svelte
+Link to template: https://github.com/RiadhAdrani/slick-portfolio-svelte
+
+### Astro Boilerplate by Remi Wg
+Link to demo: https://creativedesignsguru.com/demo/astro-boilerplate/
+Link to template: https://github.com/ixartz/Astro-boilerplate
+
+### Free portfolio template
+Link to demo: https://technext.github.io/profile/
+Link to template: https://themewagon.com/themes/best-quality-free-portfolio-resume-bootstrap-template-download-profile/
