@@ -1,11 +1,15 @@
 # UX
 
 ## Table of content
-1. 
+1. [Found Designs](#found-designs)
+2. [Found Other Portfolios](#found-another-portfolios)
+3. [Found Templates](#found-templates)
+4. [Questionnaire Results](#questionnaire-result)
+5. [What I want](#what-i-want)
 
 ## Found designs
 ### SinanTokmak Web Developer Portfolio Website Template
-Link: https://www.figma.com/community/file/1308624569713896610
+Link: [Figma community](https://www.figma.com/community/file/1308624569713896610)
 
 #### Defects:
 - Interactive elements (buttons) should have aquamarine color, as well as highlighted elements that are not clickable.
@@ -18,16 +22,16 @@ Link: https://www.figma.com/community/file/1308624569713896610
 - It is recommended to check the contact form on a mobile device for readability and usability.
 
 ### Personal Portfolio Website
-Link: https://www.figma.com/community/file/1046782956165823626
+Link: [Figma Community](https://www.figma.com/community/file/1046782956165823626)
 
 ### Portfolio - Figma Template
-Link: https://www.figma.com/community/file/1201747719279089009
+Link: [Figma Community](https://www.figma.com/community/file/1201747719279089009)
 
 ### PORTFOLIO DESIGN KIT
-Link: https://www.figma.com/community/file/1095297962086392253
+Link: [Figma Community](https://www.figma.com/community/file/1095297962086392253)
 
 ### Personal Portfolio Website
-Link: https://www.figma.com/community/file/1046281425042561033
+Link: [Figma Community](https://www.figma.com/community/file/1046281425042561033)
 
 ### Conclusion from all designs
 Better way is use some classic design for this portfolio, because I don't have plan update and change it often after finish.
@@ -35,37 +39,45 @@ Better way is use some classic design for this portfolio, because I don't have p
 ## Found another portfolios
 
 ### Frontend web developer portfolio
-Link: https://www.norbertzegan.com/
+Link: [Norbert Zegan](https://www.norbertzegan.com/)
 
 ### Frontend developer portfolio
-Link: https://www.janusmarcin.pl/
+Link: [Janus Marcin](https://www.janusmarcin.pl/)
 
 ### Product Designer portfolio
-Link: https://www.seanhalpin.xyz/
+Link: [Sean Halpin](https://www.seanhalpin.xyz/)
 
 ### Digital Designer & frontend developer portfolio
-Link: http://mrcthms.com/
+Link: [Marc Thomas](http://mrcthms.com/)
 
 ### Senior frontend developer
-Link: https://brittanychiang.com/
+Link: [Brittany Chiang](https://brittanychiang.com/)
 
 ### Some web developers group
-Link: https://animalmade.com/
+Link: [Animal](https://animalmade.com/)
 
 ## Found templates
 
 ### Whosbl33h by Sara Echeverría
-Link to demo: https://whosbl33h.netlify.app/
-Link to template: https://github.com/bl33h/whosbl33h
+Link to demo: [Netlify](https://whosbl33h.netlify.app/)
+
+Link to template: [GitHub](https://github.com/bl33h/whosbl33h)
 
 ### Slick Portfolio Svelte by Riadh Adrani
-Link to demo: https://riadhadrani.github.io/slick-portfolio-svelte
-Link to template: https://github.com/RiadhAdrani/slick-portfolio-svelte
+Link to demo: [GitHub Pages](https://riadhadrani.github.io/slick-portfolio-svelte)
+
+Link to template: [GitHub](https://github.com/RiadhAdrani/slick-portfolio-svelte)
 
 ### Astro Boilerplate by Remi Wg
-Link to demo: https://creativedesignsguru.com/demo/astro-boilerplate/
-Link to template: https://github.com/ixartz/Astro-boilerplate
+Link to demo: [Creative Designs Guru](https://creativedesignsguru.com/demo/astro-boilerplate/)
+
+Link to template: [GitHub](https://github.com/ixartz/Astro-boilerplate)
 
 ### Free portfolio template
-Link to demo: https://technext.github.io/profile/
-Link to template: https://themewagon.com/themes/best-quality-free-portfolio-resume-bootstrap-template-download-profile/
+Link to demo: [GitHub Pages](https://technext.github.io/profile/)
+
+Link to template: [Theme Wagon](https://themewagon.com/themes/best-quality-free-portfolio-resume-bootstrap-template-download-profile/)
+
+## Questionnaire result
+
+## What I want
