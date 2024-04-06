@@ -7,6 +7,7 @@
 - [Diary](diary.md)
 - [Features description](feature-description%2FREADME.MD)
 - [File structure](file-structure.md)
+- [UX research](frontend-ux-research.md)
 - [Web-APP file structure](frontend-file-structure.md)
 - [Git branching](git-branching.md)
 - [PoC's List](PoC/README.md)
