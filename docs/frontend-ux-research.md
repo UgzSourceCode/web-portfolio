@@ -1,12 +1,17 @@
 # UX research
 [< Back to Documentation README](README.md)
 
+This document will describe the portfolio websites, designs, or templates that I found, along with my thoughts on them, supplemented by additional information from other people.
+
 ## Table Of Content
-1. [Found Designs](#found-designs)
+1. [Research plan](#research-plan)
+2. [Found Designs](#found-designs)
 2. [Found Other Portfolios](#found-another-portfolios)
 3. [Found Templates](#found-templates)
 4. [Questionnaire Results](#questionnaire-result)
 5. [What I want](#what-i-want)
+
+## Research plan
 
 ## Found designs
 ### SinanTokmak Web Developer Portfolio Website Template
@@ -124,5 +129,8 @@ Link to template: [Theme Wagon](https://themewagon.com/themes/best-quality-free-
 ![template-example-free-bootstrap.png](../assets/template-example-free-bootstrap.png)
 
 ## Questionnaire result
+It's hard to find volunteers who can say what they think about design projects.
+
+In first wave I found  only one person. His opinion was added to description of founded items.
 
 ## What I want
