@@ -12,6 +12,18 @@ This document will describe the portfolio websites, designs, or templates that I
 5. [What I want](#what-i-want)
 
 ## Research plan
+1. **Defining Objectives**: Initially, it's crucial to clearly define the research objectives. Are you aiming to understand user behaviors, identify issues in the user interface, or test a new project? It's essential to determine what you aim to achieve. For this research, aiming is understand what is important for user and how should show it.
+2. **Choosing the appropriate research methodology**: There are many different research methods, such as competitive analysis, user observations, interviews, usability testing, customer journey mapping, etc. For this research, competitive analysis has been chosen.
+3. **Creating Research Scenarios**: Prepare a set of scenarios or questions that will assist you in conducting research. Ensure that they are tailored to the chosen research methodology and will help in obtaining answers to the posed questions. For this research, scenarios you should find in [research scenarios](#research-scenarios) part.
+4. **Recruitment of Participants**: Select the appropriate target group for the research. Participant recruitment can be conducted through various channels, depending on the nature of the study and the target audience.
+5. **Conducting Research**: Carry out the planned research using the selected methods. Remember to maintain neutrality and avoid influencing respondents' answers.
+6. **Analysis of Collected Data**: After completing the research, proceed to analyze the collected data. Depending on the research method, this may involve reviewing notes, transcribing interviews, analyzing usability test results, etc.
+7. **Inference and Drawing Conclusions**: Based on the collected data, draw conclusions and identify key areas for improvement or development. Try to rely on specific data rather than just intuition.
+8. **Implementation**: Based on the findings from the research, take specific design-related actions to improve the user experience. This may involve changes to the user interface, enhancements to customer service processes, etc.
+8. **Testing Solutions**: After implementation, conduct tests to verify their effectiveness and understandability to users.
+9. **Iterative Cycle**: The UX research and design process should be iterative. After completing one iteration, analyze the results, draw conclusions, and move on to the next iteration to continuously improve the product.
+
+## Research scenarios
 
 ## Found designs
 ### SinanTokmak Web Developer Portfolio Website Template
