@@ -5,11 +5,12 @@ This document will describe the portfolio websites, designs, or templates that I
 
 ## Table Of Content
 1. [Research plan](#research-plan)
-2. [Found Designs](#found-designs)
-2. [Found Other Portfolios](#found-another-portfolios)
-3. [Found Templates](#found-templates)
-4. [Questionnaire Results](#questionnaire-result)
-5. [What I want](#what-i-want)
+2. [Research scenarios](#research-scenarios)
+3. [Found Designs](#found-designs)
+4. [Found Other Portfolios](#found-another-portfolios)
+5. [Found Templates](#found-templates)
+6. [Questionnaire Results](#questionnaire-result)
+7. [What I want](#what-i-want)
 
 ## Research plan
 1. **Defining Objectives**: Initially, it's crucial to clearly define the research objectives. Are you aiming to understand user behaviors, identify issues in the user interface, or test a new project? It's essential to determine what you aim to achieve. For this research, aiming is understand what is important for user and how should show it.
