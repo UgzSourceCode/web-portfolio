@@ -20,7 +20,6 @@ The checked tasks have been finished, but the unchecked ones were started and no
 ### Description
 Today, I have focused on describing the research plan and gathering information about designs from volunteers. Additionally, I'm trying work with figma.
 
-
 ## 07-04-2024
 ### Tasks
 - [ ] Research ux
