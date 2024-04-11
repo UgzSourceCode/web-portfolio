@@ -14,6 +14,27 @@ Some description
 
 The checked tasks have been finished, but the unchecked ones were started and not finished.
 
+## 11-04-2024
+### Tasks
+- [ ] Research ux
+- [ ] Creating design
+### Description
+Today, I have focused on learning figma and start updating research data. I have sent a few posts on Twitter with questions about design.
+
+## 10-04-2024
+### Tasks
+- [ ] Research ux
+- [ ] Creating design
+### Description
+Today, I have focused on learning figma and start updating research data. I will prepare few post on x(twitter) about design opinion.
+
+## 09-04-2024
+### Tasks
+- [ ] Research ux
+- [ ] Creating design
+### Description
+Today, I have focused on learning figma.
+
 ## 08-04-2024
 ### Tasks
 - [ ] Research ux
