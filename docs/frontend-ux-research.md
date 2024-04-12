@@ -25,6 +25,18 @@ This document will describe the portfolio websites, designs, or templates that I
 9. **Iterative Cycle**: The UX research and design process should be iterative. After completing one iteration, analyze the results, draw conclusions, and move on to the next iteration to continuously improve the product.
 
 ## Research scenarios
+1. Prepare few questions:
+   - Does the design capture attention and encourage interaction? (What graphical elements are the most attractive?)
+   - Are users able to easily find information? (How do you rate the readability of the content?; Is the navigation intuitive?)
+   - Is the design responsive and functioning correctly on various devices? (What are the user experiences on different devices?; Are interactions smooth and seamless on smartphones, tablets, and computers?)
+   - Are there areas that users find difficult or unintuitive?
+   - Is the design compliant with the latest trends and industry standards? (Does it meet current UX/UI standards?; Does it incorporate innovative solutions in line with current trends?)
+   - Are users easily situated within the project context? (What are users' first impressions upon entering the website or opening the portfolio?; Do they immediately understand what you do and what you offer?)
+   - Are there any elements that deter users or cause confusion? (Are there any elements that may deter users?; Are there elements that are not consistent with the rest of the design?)
+2. Ask few friend about designs
+3. Ask people from social media
+4. Find and ask 
+
 
 ## Found designs
 ### SinanTokmak Web Developer Portfolio Website Template
