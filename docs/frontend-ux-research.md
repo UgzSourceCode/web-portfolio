@@ -56,6 +56,13 @@ Link: [Figma community](https://www.figma.com/community/file/1308624569713896610
 - Sometimes there are `<h1>` and `<p>` tags next to some elements on the homepage, but the author quickly forgets about them in subsequent views.
 - It is recommended to check the contact form on a mobile device for readability and usability.
 
+#### Feedback from
+1. First person:
+   - The "Let's talk" button may be confusing for typical users who may not recognize it as a button.
+   - The icons at the bottom of the page, especially the red, blue, and orange ones, are too prominent and overshadow the rest of the colors on the page.
+   - The "App Development" and "Web Development" panels should be larger, and the code icon should be symmetrically placed to be more visible.
+   - The main goal of the portfolio page is to showcase skills, so they should be clearly visible and easily recognizable.
+
 ### Personal Portfolio Website
 Author: [Dliya' Zarror Nibros](https://www.figma.com/@dzarrorn)
 
@@ -73,6 +80,14 @@ Repo demo: [Github](https://github.com/nerkat/portfolio)
 Live demo: [FireBase Web App](https://ai-ui-c0f48.web.app/)
 
 ![design-example-king-katz.png](../assets/design-example-king-katz.png)
+
+
+#### Feedback from
+1. First person:
+   - Below the white title, the subtitle text is too small and difficult to notice.
+   - The colors of the titles could be better adjusted to contrast with the background and be more visible.
+   - The long text may not be readable for most users, leading to a loss of interest.
+   - The lack of a clear message about what the website offers or sells may cause users to misunderstand its value.
 
 ### PORTFOLIO DESIGN KIT
 Author: [Tolulope Adeyemo](https://www.figma.com/@adeyemotolulope)
@@ -98,6 +113,12 @@ Link: [Norbert Zegan](https://www.norbertzegan.com/)
 
 ![website-example-norbert-zegan.png](../assets/website-example-norbert-zegan.png)
 
+#### Feedback from
+1. First person:
+   - Changing the text "Zobacz co umiem" to "Zobacz moje umiejętności" would be more appropriate.
+   - There is a typo in the menu word "OMNIE", it should be written as "O MNIE" or "O mnie".
+   - Instead of "Home", it would be better to use "Strona Główna" to avoid mixing two languages.
+
 ### Frontend developer portfolio
 Link: [Janus Marcin](https://www.janusmarcin.pl/)
 
@@ -108,20 +129,37 @@ Link: [Sean Halpin](https://www.seanhalpin.xyz/)
 
 ![website-example-sean-halpin.png](../assets/website-example-sean-halpin.png)
 
+#### Feedback from
+1. First person:
+   - Intense contrast of the pink color stands out and doesn't fit well.
+
 ### Digital Designer & frontend developer portfolio
 Link: [Marc Thomas](http://mrcthms.com/)
 
 ![website-example-marc-thomas.png](../assets/website-example-marc-thomas.png)
+
+#### Feedback from
+1. First person:
+   - The text is hard to read; I would suggest changing the color or modifying the colors of the triangles to improve readability.
 
 ### Senior frontend developer
 Link: [Brittany Chiang](https://brittanychiang.com/)
 
 ![website-example-brittany-chiang.png](../assets/website-example-brittany-chiang.png)
 
+#### Feedback from
+1. First person
+   - I would try to move the dates more to the left to fill up this side.
+   - Some experimentation is needed because the right side is occupied by a lot of content, while the left side appears too empty.
+
 ### Some web developers group
 Link: [Animal](https://animalmade.com/)
 
 ![website-example-animal.png](../assets/website-example-animal.png)
+
+#### Feedback from
+1. First person:
+   - This one is nice.
 
 ## Found templates
 
