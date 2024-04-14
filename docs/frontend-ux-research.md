@@ -46,6 +46,43 @@ Link: [Figma community](https://www.figma.com/community/file/1308624569713896610
 
 ![design-example-SinanTokmak.png](../assets/design-example-SinanTokmak.png)
 
+#### My answers
+- Czy design przyciąga uwagę i zachęca do interakcji? (Jakie elementy graficzne są najbardziej atrakcyjne?)
+- Does the design capture attention and encourage interaction? (What graphical elements are the most attractive?)
+
+Tak ten design przyciąga uwagę, ale nie zachęca do interakcji.
+Atrakcyjne dla mnie jest dzielenie widoku na mniejsze moduły, oraz dopasowanie wielkości liter oraz koloru napisów do tła.
+
+- Czy użytkownicy łatwo znajdują informacje? (Jak oceniasz czytelność treści?; Czy nawigacja jest intuicyjna?)
+- Are users able to easily find information? (How do you rate the readability of the content?; Is the navigation intuitive?)
+
+Informacje są ładnie uprządkowane w przewidywalnych miejscach, Niektórze przyciski są nieczytelne lub wyłamują się z konwencji.
+
+- Czy design jest responsywny i działa poprawnie na różnych urządzeniach? (Jakie są doświadczenia użytkowników na różnych urządzeniach?; Czy interakcje są płynne i bezproblemowe na smartfonach, tabletach i komputerach?)
+- Is the design responsive and functioning correctly on various devices? (What are the user experiences on different devices?; Are interactions smooth and seamless on smartphones, tablets, and computers?)
+
+Tak design jest przewidziany na smarthone, tablet i laptop i desktop. 
+
+- Czy istnieją obszary, które sprawiają użytkownikom trudność lub są mało intuicyjne?
+- Are there areas that users find difficult or unintuitive?
+
+Przycisk "Let's talk" wygląda inaczej niż inne przyciski.
+
+- Czy design jest zgodny z najnowszymi trendami i standardami branżowymi? (Czy spełnia aktualne standardy UX/UI?; Czy zawiera nowatorskie rozwiązania zgodne z aktualnymi trendami?)
+- Is the design compliant with the latest trends and industry standards? (Does it meet current UX/UI standards?; Does it incorporate innovative solutions in line with current trends?)
+
+Design jest bardziej klasyczny niż nowatorski, dzięki czemu bedzie dłużej aktualny.
+
+- Czy użytkownicy łatwo znajdują się w kontekście projektu? (Jakie są pierwsze wrażenia użytkowników po wejściu na stronę czy otwarciu portfolio?; Czy od razu rozumieją, czym się zajmujesz i co oferujesz?)
+- Are users easily situated within the project context? (What are users' first impressions upon entering the website or opening the portfolio?; Do they immediately understand what you do and what you offer?)
+
+Na stronie od razu wiadomo czym zajmuje się właściciel, ale nie wiadomo co oferuje i na jakie rodzaje współpracy jest otwarty. 
+
+- Czy istnieją jakieś elementy, które odstraszają użytkowników lub powodują ich dezorientację? (Czy są jakieś elementy, które mogą odstraszyć użytkowników?; Czy istnieją elementy, które nie są spójne z resztą designu?)
+- Are there any elements that deter users or cause confusion? (Are there any elements that may deter users?; Are there elements that are not consistent with the rest of the design?)
+
+
+
 #### Defects:
 - Interactive elements (buttons) should have aquamarine color, as well as highlighted elements that are not clickable.
 - Active menu items in the header and in the left menu should have an aquamarine color. In the left menu, when an item is inactive, the color should be white.
