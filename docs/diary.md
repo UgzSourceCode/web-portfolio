@@ -19,6 +19,13 @@ The checked tasks have been finished, but the unchecked ones were started and no
 - [ ] Research ux
 - [ ] Creating design
 ### Description
+Today, I continue providing my own answers for UX research.
+
+## 13-04-2024
+### Tasks
+- [ ] Research ux
+- [ ] Creating design
+### Description
 Today, I have focused on providing my own answers for UX research.
 
 ## 12-04-2024
