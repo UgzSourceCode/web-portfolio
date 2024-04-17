@@ -74,7 +74,7 @@ On the website, it's immediately clear what the owner's focus is, but it's uncle
 
 - Are there any elements that deter users or cause confusion? (Are there any elements that may deter users?; Are there elements that are not consistent with the rest of the design?)
 
-Yes, this design has several defects. These include inconsistencies in button colors, as well as inconsistencies in the form of buttons and the use of <p> and <h1> tags.
+Yes, this design has several defects. These include inconsistencies in button colors, as well as inconsistencies in the form of buttons and the use of `<p>` and `<h1>` tags.
 
 #### Defects:
 - Interactive elements (buttons) should have aquamarine color, as well as highlighted elements that are not clickable.
@@ -104,6 +104,7 @@ Link: [Figma Community](https://www.figma.com/community/file/1046782956165823626
 - Czy design przyciąga uwagę i zachęca do interakcji? (Jakie elementy graficzne są najbardziej atrakcyjne?)
 - Does the design capture attention and encourage interaction? (What graphical elements are the most attractive?)
 
+Tak średnio przyciąga uwagę, ale zachęca do interakcji.
 
 - Czy użytkownicy łatwo znajdują informacje? (Jak oceniasz czytelność treści?; Czy nawigacja jest intuicyjna?)
 - Are users able to easily find information? (How do you rate the readability of the content?; Is the navigation intuitive?)
