@@ -101,40 +101,33 @@ Link: [Figma Community](https://www.figma.com/community/file/1046782956165823626
 ![design-example-zetdev-1.png](../assets/design-example-zetdev-1.png)
 
 #### My answers
-- Czy design przyciąga uwagę i zachęca do interakcji? (Jakie elementy graficzne są najbardziej atrakcyjne?)
 - Does the design capture attention and encourage interaction? (What graphical elements are the most attractive?)
 
-Tak średnio przyciąga uwagę, ale zachęca do interakcji. Najbardziej atrakcyjnego elementu graficznego nie umiem wskazać, ale podoba mi się w tym designie czystość i prostota.
+Yes, it moderately captures attention but encourages interaction. I can't pinpoint one specific graphical element that stands out the most, but I appreciate the cleanliness and simplicity of this design.
 
-- Czy użytkownicy łatwo znajdują informacje? (Jak oceniasz czytelność treści?; Czy nawigacja jest intuicyjna?)
 - Are users able to easily find information? (How do you rate the readability of the content?; Is the navigation intuitive?)
 
-Tak, znalezienie informacji nie jest trudne. Ale to głównie dlatego że jest ich mało, i niektórych może brakować.
+Yes, finding information isn't difficult. However, mainly because there isn't much of it, and some may be missing.
 
-- Czy design jest responsywny i działa poprawnie na różnych urządzeniach? (Jakie są doświadczenia użytkowników na różnych urządzeniach?; Czy interakcje są płynne i bezproblemowe na smartfonach, tabletach i komputerach?)
 - Is the design responsive and functioning correctly on various devices? (What are the user experiences on different devices?; Are interactions smooth and seamless on smartphones, tablets, and computers?)
 
-Design ten jest przygotowany w jednym wariancie, przez co na urządzeniach mobilnych może nie wyglądać najlepiej w zależności od implementacji.
+This design is prepared in a single variant, which may not look optimal on mobile devices depending on the implementation.
 
-- Czy istnieją obszary, które sprawiają użytkownikom trudność lub są mało intuicyjne?
 - Are there areas that users find difficult or unintuitive?
 
-Jako użytkownik nie do końca wiem co to za loga na czarnym pasku.
+As a user, I'm not entirely sure what the logo on the black bar represents.
 
-- Czy design jest zgodny z najnowszymi trendami i standardami branżowymi? (Czy spełnia aktualne standardy UX/UI?; Czy zawiera nowatorskie rozwiązania zgodne z aktualnymi trendami?)
 - Is the design compliant with the latest trends and industry standards? (Does it meet current UX/UI standards?; Does it incorporate innovative solutions in line with current trends?)
 
-Nie ma w nim niczego innowatorskiego, gradientowe fioletowe tła wręcz już wychodzą z mody o ile nie wyszły całkiem.
+It lacks innovation, and gradient purple backgrounds are almost out of fashion, if not completely outdated.
 
-- Czy użytkownicy łatwo znajdują się w kontekście projektu? (Jakie są pierwsze wrażenia użytkowników po wejściu na stronę czy otwarciu portfolio?; Czy od razu rozumieją, czym się zajmujesz i co oferujesz?)
 - Are users easily situated within the project context? (What are users' first impressions upon entering the website or opening the portfolio?; Do they immediately understand what you do and what you offer?)
 
-Tak, choć pierwszy widok nie mówi od razu za dużo.
+Yes, although the initial view doesn't immediately convey much.
 
-- Czy istnieją jakieś elementy, które odstraszają użytkowników lub powodują ich dezorientację? (Czy są jakieś elementy, które mogą odstraszyć użytkowników?; Czy istnieją elementy, które nie są spójne z resztą designu?)
 - Are there any elements that deter users or cause confusion? (Are there any elements that may deter users?; Are there elements that are not consistent with the rest of the design?)
 
-Nic strasznego nie widzą na tym designie.
+There's nothing particularly alarming about this design.
 
 ### Portfolio - Figma Template
 Author: [KingKatz aka midjourney2figma](https://www.instagram.com/midjourney2figma)
@@ -148,40 +141,33 @@ Live demo: [FireBase Web App](https://ai-ui-c0f48.web.app/)
 ![design-example-king-katz.png](../assets/design-example-king-katz.png)
 
 #### My answers
-- Czy design przyciąga uwagę i zachęca do interakcji? (Jakie elementy graficzne są najbardziej atrakcyjne?)
 - Does the design capture attention and encourage interaction? (What graphical elements are the most attractive?)
 
-Design zdecydowanie przyciąga uwagę, ale nie zachęca do interakcji. Na ten moment najbardziej atrakcyjne dla mnie jest tło, ale wiem że AI to nowinka i za jakiś czas to już nie będzie tak atrakcyjne.
+The design certainly grabs attention, but it doesn't encourage interaction. At the moment, what's most attractive to me is the background, but I know that AI is a novelty, and in some time, it won't be as appealing.
 
-- Czy użytkownicy łatwo znajdują informacje? (Jak oceniasz czytelność treści?; Czy nawigacja jest intuicyjna?)
 - Are users able to easily find information? (How do you rate the readability of the content?; Is the navigation intuitive?)
 
-Tak, nawigacja jest intuicyjna a informacje znajdują się tam gdzie się ich spodziewam.
+Yes, the navigation is intuitive, and the information is where I expect it to be.
 
-- Czy design jest responsywny i działa poprawnie na różnych urządzeniach? (Jakie są doświadczenia użytkowników na różnych urządzeniach?; Czy interakcje są płynne i bezproblemowe na smartfonach, tabletach i komputerach?)
 - Is the design responsive and functioning correctly on various devices? (What are the user experiences on different devices?; Are interactions smooth and seamless on smartphones, tablets, and computers?)
 
-Nie, design został przewidziany tylko w wersji desktopowej.
+No, the design was only intended for the desktop version.
 
-- Czy istnieją obszary, które sprawiają użytkownikom trudność lub są mało intuicyjne?
 - Are there areas that users find difficult or unintuitive?
 
-Czcionki i elementy są dość małe, przez co słabo czytelne.
+The fonts and elements are quite small, making them poorly legible.
 
-- Czy design jest zgodny z najnowszymi trendami i standardami branżowymi? (Czy spełnia aktualne standardy UX/UI?; Czy zawiera nowatorskie rozwiązania zgodne z aktualnymi trendami?)
 - Is the design compliant with the latest trends and industry standards? (Does it meet current UX/UI standards?; Does it incorporate innovative solutions in line with current trends?)
 
-Tak, design wygląda mocno nowocześnie za sprawą AI.
+Yes, the design looks very modern, thanks to AI.
 
-- Czy użytkownicy łatwo znajdują się w kontekście projektu? (Jakie są pierwsze wrażenia użytkowników po wejściu na stronę czy otwarciu portfolio?; Czy od razu rozumieją, czym się zajmujesz i co oferujesz?)
 - Are users easily situated within the project context? (What are users' first impressions upon entering the website or opening the portfolio?; Do they immediately understand what you do and what you offer?)
 
-W sumie tak, opis początkowy jest mocno długi. Mógł by być rozbity na jakieś ikonki i labelki albo bardziej wyróżnić informacje co i w jakiej formie będzie oferowane.
+Yeah, overall, the initial description is quite lengthy. It could be broken down into some icons and labels or highlight more clearly what information will be offered and in what form.
 
-- Czy istnieją jakieś elementy, które odstraszają użytkowników lub powodują ich dezorientację? (Czy są jakieś elementy, które mogą odstraszyć użytkowników?; Czy istnieją elementy, które nie są spójne z resztą designu?)
 - Are there any elements that deter users or cause confusion? (Are there any elements that may deter users?; Are there elements that are not consistent with the rest of the design?)
 
-W tle istnieją artefakty wyglądające np jak rozmyte napisy, dodatkowo większość uwagi kradnie tło.
+In the background, there are artifacts resembling, for example, blurred texts, and additionally, most of the attention is stolen by the background.
 
 #### Feedback from
 1. First person:
@@ -201,30 +187,37 @@ Link: [Figma Community](https://www.figma.com/community/file/1095297962086392253
 - Czy design przyciąga uwagę i zachęca do interakcji? (Jakie elementy graficzne są najbardziej atrakcyjne?)
 - Does the design capture attention and encourage interaction? (What graphical elements are the most attractive?)
 
+Design w umiarkowanym stopniu przyciąga uwagę i zachęca do interakcji. Najbardziej atrakcyjnym elementem wydają mi się prezentacje projektów.
 
 - Czy użytkownicy łatwo znajdują informacje? (Jak oceniasz czytelność treści?; Czy nawigacja jest intuicyjna?)
 - Are users able to easily find information? (How do you rate the readability of the content?; Is the navigation intuitive?)
 
+Informacji nie ma za dużo, i intuicyjnie wydają się być tam gdzie sie ich spodziewam.
 
 - Czy design jest responsywny i działa poprawnie na różnych urządzeniach? (Jakie są doświadczenia użytkowników na różnych urządzeniach?; Czy interakcje są płynne i bezproblemowe na smartfonach, tabletach i komputerach?)
 - Is the design responsive and functioning correctly on various devices? (What are the user experiences on different devices?; Are interactions smooth and seamless on smartphones, tablets, and computers?)
 
+Tak, design został przewidziny zarówno na desktop jak i urządzenia mobilne. Na urządzeniach mobilnych występuje zdecydowanie większy ścisk.
 
 - Czy istnieją obszary, które sprawiają użytkownikom trudność lub są mało intuicyjne?
 - Are there areas that users find difficult or unintuitive?
 
+Nie widzę takich obszarów które sprawiły by mi trudność w zrozumieniu treści.
 
 - Czy design jest zgodny z najnowszymi trendami i standardami branżowymi? (Czy spełnia aktualne standardy UX/UI?; Czy zawiera nowatorskie rozwiązania zgodne z aktualnymi trendami?)
 - Is the design compliant with the latest trends and industry standards? (Does it meet current UX/UI standards?; Does it incorporate innovative solutions in line with current trends?)
 
+Design jest bardziej klasyczny niż nowoczesny, przez co będzie dłużej aktualny.
 
 - Czy użytkownicy łatwo znajdują się w kontekście projektu? (Jakie są pierwsze wrażenia użytkowników po wejściu na stronę czy otwarciu portfolio?; Czy od razu rozumieją, czym się zajmujesz i co oferujesz?)
 - Are users easily situated within the project context? (What are users' first impressions upon entering the website or opening the portfolio?; Do they immediately understand what you do and what you offer?)
 
+Odnalezienie się jest dość łatwe, ale oferta nie jest jakoś specjalnie dobrze wyszczególniona.
 
 - Czy istnieją jakieś elementy, które odstraszają użytkowników lub powodują ich dezorientację? (Czy są jakieś elementy, które mogą odstraszyć użytkowników?; Czy istnieją elementy, które nie są spójne z resztą designu?)
 - Are there any elements that deter users or cause confusion? (Are there any elements that may deter users?; Are there elements that are not consistent with the rest of the design?)
 
+Kontakt przez podanie adresu email tak wyglądającego trochę straszy, dodatkowo ścisk tekstu dla urządzeń mobilnych nie wygląda zbyt dobrze.
 
 ### Personal Portfolio Website
 Author: [Dliya' Zarror Nibros](https://www.figma.com/@dzarrorn)
