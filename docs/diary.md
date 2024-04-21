@@ -14,6 +14,12 @@ Some description
 
 The checked tasks have been finished, but the unchecked ones were started and not finished.
 
+## 21-04-2024
+### Tasks
+- [ ] Research ux
+### Description
+Today, I continue providing my own answers for UX research + searched fonts for logo.
+
 ## 20-04-2024
 ### Tasks
 - [ ] Research ux
