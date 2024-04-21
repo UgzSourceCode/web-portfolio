@@ -228,27 +228,32 @@ Design przyciąga uwagę w umiarkowanym stopniu, trchę lepiej sobie radzi w zac
 - Czy użytkownicy łatwo znajdują informacje? (Jak oceniasz czytelność treści?; Czy nawigacja jest intuicyjna?)
 - Are users able to easily find information? (How do you rate the readability of the content?; Is the navigation intuitive?)
 
-
+Informacje które są na stronie są dość proste do znalezienia, jednak moim zdaniem brakuje ich więc należało by rozbudować to o kwestie bardziej techniczne.
 
 - Czy design jest responsywny i działa poprawnie na różnych urządzeniach? (Jakie są doświadczenia użytkowników na różnych urządzeniach?; Czy interakcje są płynne i bezproblemowe na smartfonach, tabletach i komputerach?)
 - Is the design responsive and functioning correctly on various devices? (What are the user experiences on different devices?; Are interactions smooth and seamless on smartphones, tablets, and computers?)
 
+Nie, design jest przewidziany tylko na desktop. Przeglądanie go na urządzeniach mobilnych moim zdaniem nie będzie zbyt wygodne.
 
 - Czy istnieją obszary, które sprawiają użytkownikom trudność lub są mało intuicyjne?
 - Are there areas that users find difficult or unintuitive?
 
+Znając loga technologii domyślam się że czarny pasek to stack technologiczny w którym pracyje. Ale nie interesując się technicznymi aspektami istnieje ryzyko że niewiele by mi to powiedziało.
 
 - Czy design jest zgodny z najnowszymi trendami i standardami branżowymi? (Czy spełnia aktualne standardy UX/UI?; Czy zawiera nowatorskie rozwiązania zgodne z aktualnymi trendami?)
 - Is the design compliant with the latest trends and industry standards? (Does it meet current UX/UI standards?; Does it incorporate innovative solutions in line with current trends?)
 
+Design nie wygląda zbyt nowocześnie, czy nie wskazuje na panujące trendy. Za to jest schludny i powinien być akrualny dłuższy czas.
 
 - Czy użytkownicy łatwo znajdują się w kontekście projektu? (Jakie są pierwsze wrażenia użytkowników po wejściu na stronę czy otwarciu portfolio?; Czy od razu rozumieją, czym się zajmujesz i co oferujesz?)
 - Are users easily situated within the project context? (What are users' first impressions upon entering the website or opening the portfolio?; Do they immediately understand what you do and what you offer?)
 
+Tak, znalezienie informacji w kontekście projektu jest proste i intuicyjne. Od samego początku wiadomo czym się zajmuje właściciel strony.
 
 - Czy istnieją jakieś elementy, które odstraszają użytkowników lub powodują ich dezorientację? (Czy są jakieś elementy, które mogą odstraszyć użytkowników?; Czy istnieją elementy, które nie są spójne z resztą designu?)
 - Are there any elements that deter users or cause confusion? (Are there any elements that may deter users?; Are there elements that are not consistent with the rest of the design?)
 
+Nie widzę takich elementów które by odstraszały lub wprowadzały w dezorientacje.
 
 ### Conclusion from all designs
 Better way is use some classic design for this portfolio, because I don't have plan update and change it often after finish.
@@ -264,9 +269,11 @@ Link: [Norbert Zegan](https://www.norbertzegan.com/)
 - Czy design przyciąga uwagę i zachęca do interakcji? (Jakie elementy graficzne są najbardziej atrakcyjne?)
 - Does the design capture attention and encourage interaction? (What graphical elements are the most attractive?)
 
+Tak, design przyciąga uwagę. Jest prosty i estetyczny, podoba mi się że jednocześnie nie ma dużo elementów podczas przeglądania.
 
 - Czy użytkownicy łatwo znajdują informacje? (Jak oceniasz czytelność treści?; Czy nawigacja jest intuicyjna?)
 - Are users able to easily find information? (How do you rate the readability of the content?; Is the navigation intuitive?)
+
 
 
 - Czy design jest responsywny i działa poprawnie na różnych urządzeniach? (Jakie są doświadczenia użytkowników na różnych urządzeniach?; Czy interakcje są płynne i bezproblemowe na smartfonach, tabletach i komputerach?)
@@ -482,6 +489,8 @@ Link: [Animal](https://animalmade.com/)
 1. First person:
    - This one is nice.
 
+### Conclusion from all other portfolios
+
 ## Found templates
 
 ### Whosbl33h by Sara Echeverría
@@ -627,6 +636,7 @@ Link to template: [Theme Wagon](https://themewagon.com/themes/best-quality-free-
 - Czy istnieją jakieś elementy, które odstraszają użytkowników lub powodują ich dezorientację? (Czy są jakieś elementy, które mogą odstraszyć użytkowników?; Czy istnieją elementy, które nie są spójne z resztą designu?)
 - Are there any elements that deter users or cause confusion? (Are there any elements that may deter users?; Are there elements that are not consistent with the rest of the design?)
 
+### Conclusion from all templates
 
 ## Questionnaire result
 It's hard to find volunteers who can say what they think about design projects.
@@ -635,3 +645,9 @@ In first wave I found only one person. His opinion was added to description of f
 In next wave I found second person. His opinion was added to description of founded items.
 
 ## What I want
+
+### Logo font research
+
+#### Ninjabot
+
+Link: [](https://pl.fontriver.com/font/ninjabot/)
