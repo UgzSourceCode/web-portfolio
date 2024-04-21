@@ -650,4 +650,21 @@ In next wave I found second person. His opinion was added to description of foun
 
 #### Ninjabot
 
-Link: [](https://pl.fontriver.com/font/ninjabot/)
+Link: [Fontriver Ninjabot](https://pl.fontriver.com/font/ninjabot/)
+
+Screenshot with "Ugz" part of logo:
+![font-ninjabot-demo.png](../assets/font-ninjabot-demo.png)
+
+#### Apollo Rocket
+
+Link: [Fontriver Apollo Rocket](https://pl.fontriver.com/font/apollo_rocket/)
+
+Screenshot with "Ugz" part of logo:
+![font-apollo-rocket-demo.png](../assets/font-apollo-rocket-demo.png)
+
+#### Gastino
+
+Link: [Fontriver Gastino](https://pl.fontriver.com/font/gastino/)
+
+Screenshot with "Ugz" part of logo:
+![font-gastino-demo.png](../assets/font-gastino-demo.png)
