@@ -14,6 +14,42 @@ Some description
 
 The checked tasks have been finished, but the unchecked ones were started and not finished.
 
+## 27-04-2024
+### Tasks
+- [ ] Research ux
+### Description
+Today, I continue providing my own answers for UX research.
+
+## 26-04-2024
+### Tasks
+- [ ] Research ux
+### Description
+Today, I continue providing my own answers for UX research + enable CodeRabbit.
+
+## 25-04-2024
+### Tasks
+- [ ] Research ux
+### Description
+Today, I continue providing my own answers for UX research.
+
+## 24-04-2024
+### Tasks
+- [ ] Research ux
+### Description
+Today, I continue providing my own answers for UX research.
+
+## 23-04-2024
+### Tasks
+- [ ] Research ux
+### Description
+Today, I continue providing my own answers for UX research.
+
+## 22-04-2024
+### Tasks
+- [ ] Research ux
+### Description
+Today, I continue providing my own answers for UX research.
+
 ## 21-04-2024
 ### Tasks
 - [ ] Research ux
