@@ -220,40 +220,33 @@ Link: [Figma Community](https://www.figma.com/community/file/1046281425042561033
 ![design-example-zetdev-2.png](../assets/design-example-zetdev-2.png)
 
 #### My answers
-- Czy design przyciąga uwagę i zachęca do interakcji? (Jakie elementy graficzne są najbardziej atrakcyjne?)
 - Does the design capture attention and encourage interaction? (What graphical elements are the most attractive?)
 
-Design przyciąga uwagę w umiarkowanym stopniu, trchę lepiej sobie radzi w zachęcaniu do interakcji.
+The design captures attention to a moderate extent, but it fares a bit better in encouraging interaction.
 
-- Czy użytkownicy łatwo znajdują informacje? (Jak oceniasz czytelność treści?; Czy nawigacja jest intuicyjna?)
 - Are users able to easily find information? (How do you rate the readability of the content?; Is the navigation intuitive?)
 
-Informacje które są na stronie są dość proste do znalezienia, jednak moim zdaniem brakuje ich więc należało by rozbudować to o kwestie bardziej techniczne.
+The information on the website is quite easy to find, but in my opinion, it's insufficient. It should be expanded to include more technical aspects.
 
-- Czy design jest responsywny i działa poprawnie na różnych urządzeniach? (Jakie są doświadczenia użytkowników na różnych urządzeniach?; Czy interakcje są płynne i bezproblemowe na smartfonach, tabletach i komputerach?)
 - Is the design responsive and functioning correctly on various devices? (What are the user experiences on different devices?; Are interactions smooth and seamless on smartphones, tablets, and computers?)
 
-Nie, design jest przewidziany tylko na desktop. Przeglądanie go na urządzeniach mobilnych moim zdaniem nie będzie zbyt wygodne.
+No, the design is intended only for desktop. Browsing it on mobile devices, in my opinion, won't be very convenient.
 
-- Czy istnieją obszary, które sprawiają użytkownikom trudność lub są mało intuicyjne?
 - Are there areas that users find difficult or unintuitive?
 
-Znając loga technologii domyślam się że czarny pasek to stack technologiczny w którym pracyje. Ale nie interesując się technicznymi aspektami istnieje ryzyko że niewiele by mi to powiedziało.
+Knowing the logo of the technology, one can assume that the black bar represents the technological stack in which the company operates. However, for those not interested in technical aspects, there is a risk that this information may not be very meaningful to them.
 
-- Czy design jest zgodny z najnowszymi trendami i standardami branżowymi? (Czy spełnia aktualne standardy UX/UI?; Czy zawiera nowatorskie rozwiązania zgodne z aktualnymi trendami?)
 - Is the design compliant with the latest trends and industry standards? (Does it meet current UX/UI standards?; Does it incorporate innovative solutions in line with current trends?)
 
-Design nie wygląda zbyt nowocześnie, czy nie wskazuje na panujące trendy. Za to jest schludny i powinien być akrualny dłuższy czas.
+The design doesn't look very modern or indicative of current trends. However, it is neat and should remain relevant for a longer period.
 
-- Czy użytkownicy łatwo znajdują się w kontekście projektu? (Jakie są pierwsze wrażenia użytkowników po wejściu na stronę czy otwarciu portfolio?; Czy od razu rozumieją, czym się zajmujesz i co oferujesz?)
 - Are users easily situated within the project context? (What are users' first impressions upon entering the website or opening the portfolio?; Do they immediately understand what you do and what you offer?)
 
-Tak, znalezienie informacji w kontekście projektu jest proste i intuicyjne. Od samego początku wiadomo czym się zajmuje właściciel strony.
+Yes, finding information about the project context is straightforward and intuitive. From the beginning, it's clear what the owner of the website is involved in.
 
-- Czy istnieją jakieś elementy, które odstraszają użytkowników lub powodują ich dezorientację? (Czy są jakieś elementy, które mogą odstraszyć użytkowników?; Czy istnieją elementy, które nie są spójne z resztą designu?)
 - Are there any elements that deter users or cause confusion? (Are there any elements that may deter users?; Are there elements that are not consistent with the rest of the design?)
 
-Nie widzę takich elementów które by odstraszały lub wprowadzały w dezorientacje.
+I don't see any elements that could deter or confuse.
 
 ### Conclusion from all designs
 Better way is use some classic design for this portfolio, because I don't have plan update and change it often after finish.
@@ -266,40 +259,33 @@ Link: [Norbert Zegan](https://www.norbertzegan.com/)
 ![website-example-norbert-zegan.png](../assets/website-example-norbert-zegan.png)
 
 #### My answers
-- Czy design przyciąga uwagę i zachęca do interakcji? (Jakie elementy graficzne są najbardziej atrakcyjne?)
 - Does the design capture attention and encourage interaction? (What graphical elements are the most attractive?)
 
-Tak, design przyciąga uwagę. Jest prosty i estetyczny, podoba mi się że jednocześnie nie ma dużo elementów podczas przeglądania.
+Yes, the design captures attention. It's simple and aesthetic, I like that there aren't too many elements when browsing.
 
-- Czy użytkownicy łatwo znajdują informacje? (Jak oceniasz czytelność treści?; Czy nawigacja jest intuicyjna?)
 - Are users able to easily find information? (How do you rate the readability of the content?; Is the navigation intuitive?)
 
-W większośc przypadków znalezienie informacji jest łatwe, mam mieszane uczucia co do bloków na które trzeba najechać myszką aby zobaczyć opis. Teoretycznie większość ludzi powinna je zauważyć i nie są to też informacje krytyczne - ale warto to rozważyć.
+In most cases, finding information is easy, but I have mixed feelings about the blocks that need to be hovered over to see the description. Theoretically, most people should notice them, and they are not critical information - but it's worth considering.
 
-- Czy design jest responsywny i działa poprawnie na różnych urządzeniach? (Jakie są doświadczenia użytkowników na różnych urządzeniach?; Czy interakcje są płynne i bezproblemowe na smartfonach, tabletach i komputerach?)
 - Is the design responsive and functioning correctly on various devices? (What are the user experiences on different devices?; Are interactions smooth and seamless on smartphones, tablets, and computers?)
 
-Tak, design jest przygotowany zarówno dla deskotpu jak i urządzeń mobilnych. Jednak nie podoba mi się to że przy mniejszej szerokości ekranu menu znajduje się bardzo blisko logo.
+Yes, the design is prepared for both desktop and mobile devices. However, I don't like that at a narrower screen width, the menu is located very close to the logo.
 
-- Czy istnieją obszary, które sprawiają użytkownikom trudność lub są mało intuicyjne?
 - Are there areas that users find difficult or unintuitive?
 
-Po za elementami o których wspomniałem rozwijającymi się po najechaniu myszą nie mam żadnych zastrzeżeń.
+Other than the elements I mentioned, such as those expanding on mouse hover, I have no objections.
 
-- Czy design jest zgodny z najnowszymi trendami i standardami branżowymi? (Czy spełnia aktualne standardy UX/UI?; Czy zawiera nowatorskie rozwiązania zgodne z aktualnymi trendami?)
 - Is the design compliant with the latest trends and industry standards? (Does it meet current UX/UI standards?; Does it incorporate innovative solutions in line with current trends?)
 
-Design jest bardziej klasyczmy, wyróżnia go tylko tło z animowanym elementem.
+The design is more classic, with the only standout feature being the background with an animated element.
 
-- Czy użytkownicy łatwo znajdują się w kontekście projektu? (Jakie są pierwsze wrażenia użytkowników po wejściu na stronę czy otwarciu portfolio?; Czy od razu rozumieją, czym się zajmujesz i co oferujesz?)
 - Are users easily situated within the project context? (What are users' first impressions upon entering the website or opening the portfolio?; Do they immediately understand what you do and what you offer?)
 
-Tak.
+Yes.
 
-- Czy istnieją jakieś elementy, które odstraszają użytkowników lub powodują ich dezorientację? (Czy są jakieś elementy, które mogą odstraszyć użytkowników?; Czy istnieją elementy, które nie są spójne z resztą designu?)
 - Are there any elements that deter users or cause confusion? (Are there any elements that may deter users?; Are there elements that are not consistent with the rest of the design?)
 
-Nie.
+No.
 
 #### Feedback from
 1. First person:
@@ -313,40 +299,33 @@ Link: [Janus Marcin](https://www.janusmarcin.pl/)
 ![website-example-janus-marcin.png](../assets/website-example-janus-marcin.png)
 
 #### My answers
-- Czy design przyciąga uwagę i zachęca do interakcji? (Jakie elementy graficzne są najbardziej atrakcyjne?)
 - Does the design capture attention and encourage interaction? (What graphical elements are the most attractive?)
 
-Tak, nawet do tego poziomu że elementy tłą odciągają uwage od treści. W kwesti zachęcania do interakcji, przycisk nawołuje do kontaktu. Niestety informacje w okół nie wyjaśniają w jakim celu i na jakie oferty właściciel jest otwarty.
+Yes, although the background elements distract from the content. The button encourages interaction by prompting for contact. Unfortunately, the surrounding information does not provide clarity on the purpose and types of offers the owner is open to.
 
-- Czy użytkownicy łatwo znajdują informacje? (Jak oceniasz czytelność treści?; Czy nawigacja jest intuicyjna?)
 - Are users able to easily find information? (How do you rate the readability of the content?; Is the navigation intuitive?)
 
-Większość informacji jest łatwa do znalezienia. Domyślić się trzeba jakie formy współpracy interesują właściciela strony.
+Most of the information is easy to find. However, one needs to guess what types of collaboration interest the owner of the website.
 
-- Czy design jest responsywny i działa poprawnie na różnych urządzeniach? (Jakie są doświadczenia użytkowników na różnych urządzeniach?; Czy interakcje są płynne i bezproblemowe na smartfonach, tabletach i komputerach?)
 - Is the design responsive and functioning correctly on various devices? (What are the user experiences on different devices?; Are interactions smooth and seamless on smartphones, tablets, and computers?)
 
-Tak, design jest przewidziany pod różne rodzaje urządzeń. W większości przypadków czytelność nie pogarsza się, jednak podczas symulowania tabletów czcionki wydały mi się małe.
+Yes, the design is optimized for various devices. In most cases, readability doesn't deteriorate, but during tablet simulations, the fonts appeared too small.
 
-- Czy istnieją obszary, które sprawiają użytkownikom trudność lub są mało intuicyjne?
 - Are there areas that users find difficult or unintuitive?
 
-Tło i kropka podążająca za kursorem są mocno rozpraszające.
+The background and the cursor-following dot are highly distracting.
 
-- Czy design jest zgodny z najnowszymi trendami i standardami branżowymi? (Czy spełnia aktualne standardy UX/UI?; Czy zawiera nowatorskie rozwiązania zgodne z aktualnymi trendami?)
 - Is the design compliant with the latest trends and industry standards? (Does it meet current UX/UI standards?; Does it incorporate innovative solutions in line with current trends?)
 
-Nie, czcionki miejscami wyglądają jak od siekiery a główne skrzypce gra tło które moim zdaniem nie jest zbyt nowoczesne a gra pierwsze skrzypce.
+No, the fonts sometimes appear clunky, and the background tends to grab attention unnecessarily
 
-- Czy użytkownicy łatwo znajdują się w kontekście projektu? (Jakie są pierwsze wrażenia użytkowników po wejściu na stronę czy otwarciu portfolio?; Czy od razu rozumieją, czym się zajmujesz i co oferujesz?)
 - Are users easily situated within the project context? (What are users' first impressions upon entering the website or opening the portfolio?; Do they immediately understand what you do and what you offer?)
 
-Tak, od samego początku ta strona wygląda jak wizytówka.
+Yes, from the very beginning, this page looks like a business card.
 
-- Czy istnieją jakieś elementy, które odstraszają użytkowników lub powodują ich dezorientację? (Czy są jakieś elementy, które mogą odstraszyć użytkowników?; Czy istnieją elementy, które nie są spójne z resztą designu?)
 - Are there any elements that deter users or cause confusion? (Are there any elements that may deter users?; Are there elements that are not consistent with the rest of the design?)
 
-Tak, tło, kropka pod kursorem o których wspominałem w poprzednich punktach
+Yes, the background and the cursor-following dot I mentioned in previous points.
 
 ### Product Designer portfolio
 Link: [Sean Halpin](https://www.seanhalpin.xyz/)
