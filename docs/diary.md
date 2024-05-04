@@ -18,6 +18,12 @@ The checked tasks have been finished, but the unchecked ones were started and no
 ### Tasks
 - [ ] Research ux
 ### Description
+Today, I continue providing my own answers for UX research + small clean up research ux docs.
+
+## 03-05-2024
+### Tasks
+- [ ] Research ux
+### Description
 Today, I continue providing my own answers for UX research.
 
 ## 02-05-2024
