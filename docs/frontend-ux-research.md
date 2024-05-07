@@ -336,7 +336,7 @@ Link: [Sean Halpin](https://www.seanhalpin.xyz/)
 - Czy design przyciąga uwagę i zachęca do interakcji? (Jakie elementy graficzne są najbardziej atrakcyjne?)
 - Does the design capture attention and encourage interaction? (What graphical elements are the most attractive?)
 
-Design jest estetyczny i przyciąfa uwagę. Ale nie znalazłem elementu który zachęcił by do interakcji.
+Design jest estetyczny i przyciąga uwagę. Ale nie znalazłem elementu który zachęcił by do interakcji.
 
 - Czy użytkownicy łatwo znajdują informacje? (Jak oceniasz czytelność treści?; Czy nawigacja jest intuicyjna?)
 - Are users able to easily find information? (How do you rate the readability of the content?; Is the navigation intuitive?)
