@@ -512,6 +512,8 @@ Nie, choć całość może być odebrana jako niepoważna.
 
 ### Conclusion from all other portfolios
 
+Bardzo dużo stron pełniących rolę portfolio nie mówi jaką formą współpracy zainteresowanie są ich właściciele.
+
 ## Found templates
 
 ### Whosbl33h by Sara Echeverría
