@@ -333,40 +333,33 @@ Link: [Sean Halpin](https://www.seanhalpin.xyz/)
 ![website-example-sean-halpin.png](../assets/website-example-sean-halpin.png)
 
 #### My answers
-- Czy design przyciąga uwagę i zachęca do interakcji? (Jakie elementy graficzne są najbardziej atrakcyjne?)
 - Does the design capture attention and encourage interaction? (What graphical elements are the most attractive?)
 
-Design jest estetyczny i przyciąga uwagę. Ale nie znalazłem elementu który zachęcił by do interakcji.
+The design is aesthetic and attention-grabbing. However, I did not find any element that encourages interaction.
 
-- Czy użytkownicy łatwo znajdują informacje? (Jak oceniasz czytelność treści?; Czy nawigacja jest intuicyjna?)
 - Are users able to easily find information? (How do you rate the readability of the content?; Is the navigation intuitive?)
 
-Większość rzeczy wydaje się jasna, brakuje mi jedynie informacji czego szuka właściciel strony. Na jakie rodzaje współprac jest otwarty.
+Most things seem clear, but I am missing information about what the site owner is looking for(What types of collaborations is he open to?).
 
-- Czy design jest responsywny i działa poprawnie na różnych urządzeniach? (Jakie są doświadczenia użytkowników na różnych urządzeniach?; Czy interakcje są płynne i bezproblemowe na smartfonach, tabletach i komputerach?)
 - Is the design responsive and functioning correctly on various devices? (What are the user experiences on different devices?; Are interactions smooth and seamless on smartphones, tablets, and computers?)
 
-Tak, design jest responsywny i dobrze skaluje się zarówno na desktop, tablet jak i smartphone.
+Yes, the design is responsive and scales well on desktop, tablet, and smartphone.
 
-- Czy istnieją obszary, które sprawiają użytkownikom trudność lub są mało intuicyjne?
 - Are there areas that users find difficult or unintuitive?
 
-Nie przepadam za tego typu botami, niektóre opcje mogły by być też dostępne bez bota + formularz lub sam adres email.
+I am not a fan of communication bots; some options could also be available without the bot, such as a form or just an email address.
 
-- Czy design jest zgodny z najnowszymi trendami i standardami branżowymi? (Czy spełnia aktualne standardy UX/UI?; Czy zawiera nowatorskie rozwiązania zgodne z aktualnymi trendami?)
 - Is the design compliant with the latest trends and industry standards? (Does it meet current UX/UI standards?; Does it incorporate innovative solutions in line with current trends?)
 
-Tak.
+Yes.
 
-- Czy użytkownicy łatwo znajdują się w kontekście projektu? (Jakie są pierwsze wrażenia użytkowników po wejściu na stronę czy otwarciu portfolio?; Czy od razu rozumieją, czym się zajmujesz i co oferujesz?)
 - Are users easily situated within the project context? (What are users' first impressions upon entering the website or opening the portfolio?; Do they immediately understand what you do and what you offer?)
 
-Od początku mam poczucie estetyczności, dobrego dobrania kolorów oraz połączenia klasycznego i nowoczesnego wyglądu.
+From the beginning, I have a sense of aesthetics, good color selection, and a combination of classic and modern looks.
 
-- Czy istnieją jakieś elementy, które odstraszają użytkowników lub powodują ich dezorientację? (Czy są jakieś elementy, które mogą odstraszyć użytkowników?; Czy istnieją elementy, które nie są spójne z resztą designu?)
 - Are there any elements that deter users or cause confusion? (Are there any elements that may deter users?; Are there elements that are not consistent with the rest of the design?)
 
-Nie.
+No.
 
 #### Feedback from
 1. First person:
