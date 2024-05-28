@@ -484,7 +484,7 @@ No, although the whole thing may be perceived as unserious.
 
 ### Conclusion from all other portfolios
 
-Bardzo dużo stron pełniących rolę portfolio nie mówi jaką formą współpracy zainteresowanie są ich właściciele.
+Many portfolio websites do not specify the form of collaboration their owners are interested in.
 
 ## Found templates
 
