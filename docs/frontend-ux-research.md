@@ -499,6 +499,7 @@ Link to template: [GitHub](https://github.com/bl33h/whosbl33h)
 - Czy design przyciąga uwagę i zachęca do interakcji? (Jakie elementy graficzne są najbardziej atrakcyjne?)
 - Does the design capture attention and encourage interaction? (What graphical elements are the most attractive?)
 
+Ten design jest moim zdaniem atrakcyjny i przyciąga uwagę, jednak nie widzę w nim elementów zachęcających do interakcji.
 
 - Czy użytkownicy łatwo znajdują informacje? (Jak oceniasz czytelność treści?; Czy nawigacja jest intuicyjna?)
 - Are users able to easily find information? (How do you rate the readability of the content?; Is the navigation intuitive?)
