@@ -16,7 +16,7 @@ The checked tasks have been finished, but the unchecked ones were started and no
 
 ## 11-06-2024
 ### Tasks
-- [ ] Research ux
+- [x] Research ux
 ### Description
 Today, I continue providing my own answers for UX research.
 
