@@ -628,29 +628,37 @@ Link to template: [Theme Wagon](https://themewagon.com/themes/best-quality-free-
 - Czy design przyciąga uwagę i zachęca do interakcji? (Jakie elementy graficzne są najbardziej atrakcyjne?)
 - Does the design capture attention and encourage interaction? (What graphical elements are the most attractive?)
 
+Tak, za sprawą pomarańczowego tła przyciąga uwagę.
 
 - Czy użytkownicy łatwo znajdują informacje? (Jak oceniasz czytelność treści?; Czy nawigacja jest intuicyjna?)
 - Are users able to easily find information? (How do you rate the readability of the content?; Is the navigation intuitive?)
 
+Tak, strona w moim odczuciu jest czytelna a informacje znajdują się w miejscach w których się ich spodziewam.
 
 - Czy design jest responsywny i działa poprawnie na różnych urządzeniach? (Jakie są doświadczenia użytkowników na różnych urządzeniach?; Czy interakcje są płynne i bezproblemowe na smartfonach, tabletach i komputerach?)
 - Is the design responsive and functioning correctly on various devices? (What are the user experiences on different devices?; Are interactions smooth and seamless on smartphones, tablets, and computers?)
 
+Tak.
 
 - Czy istnieją obszary, które sprawiają użytkownikom trudność lub są mało intuicyjne?
 - Are there areas that users find difficult or unintuitive?
 
+Linki prowadzące do nikąd, wynika to z tego iż jest to template. Jednak mógł by dostarczyć przykłady postów i opisów projektów.
 
 - Czy design jest zgodny z najnowszymi trendami i standardami branżowymi? (Czy spełnia aktualne standardy UX/UI?; Czy zawiera nowatorskie rozwiązania zgodne z aktualnymi trendami?)
 - Is the design compliant with the latest trends and industry standards? (Does it meet current UX/UI standards?; Does it incorporate innovative solutions in line with current trends?)
 
+Nie, ale dalej wygląda świerzo.
 
 - Czy użytkownicy łatwo znajdują się w kontekście projektu? (Jakie są pierwsze wrażenia użytkowników po wejściu na stronę czy otwarciu portfolio?; Czy od razu rozumieją, czym się zajmujesz i co oferujesz?)
 - Are users easily situated within the project context? (What are users' first impressions upon entering the website or opening the portfolio?; Do they immediately understand what you do and what you offer?)
 
+Tak, pierwszym wrażeniem była kreatywność autora.
 
 - Czy istnieją jakieś elementy, które odstraszają użytkowników lub powodują ich dezorientację? (Czy są jakieś elementy, które mogą odstraszyć użytkowników?; Czy istnieją elementy, które nie są spójne z resztą designu?)
 - Are there any elements that deter users or cause confusion? (Are there any elements that may deter users?; Are there elements that are not consistent with the rest of the design?)
+
+Nie, pomijając nie działającą mapę na dole strony.
 
 ### Conclusion from all templates
 
