@@ -6,11 +6,13 @@
     "doc": "docs"
   },
   "scripts": {
-    "prepare": "husky"
+    "prepare": "husky",
+    "web-app:ncu": "ncu --packageFile 'web-app/package.json'"
   },
   "author": "Piotr 'Ugz' Bielski",
   "license": "CC-BY-4.0 license",
   "devDependencies": {
-    "husky": "9.0.11"
+    "husky": "9.0.11",
+    "npm-check-updates": "16.14.20"
   }
 }
