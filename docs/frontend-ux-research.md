@@ -92,6 +92,8 @@ Yes, this design has several defects. These include inconsistencies in button co
    - The icons at the bottom of the page, especially the red, blue, and orange ones, are too prominent and overshadow the rest of the colors on the page.
    - The "App Development" and "Web Development" panels should be larger, and the code icon should be symmetrically placed to be more visible.
    - The main goal of the portfolio page is to showcase skills, so they should be clearly visible and easily recognizable.
+2. Second person:
+   - Cool, modern. I like the combination of gray with green. Really nice design.
 
 ### Personal Portfolio Website
 Author: [Dliya' Zarror Nibros](https://www.figma.com/@dzarrorn)
@@ -128,6 +130,10 @@ Yes, although the initial view doesn't immediately convey much.
 - Are there any elements that deter users or cause confusion? (Are there any elements that may deter users?; Are there elements that are not consistent with the rest of the design?)
 
 There's nothing particularly alarming about this design.
+
+#### Feedback from
+2. Second person
+   - This type of websites repel me. Usually when I come across such sites, I know I will probably have to search for some options. Looks okay, but poorly designed navigation gives me negative associations.
 
 ### Portfolio - Figma Template
 Author: [KingKatz aka midjourney2figma](https://www.instagram.com/midjourney2figma)
@@ -175,6 +181,8 @@ In the background, there are artifacts resembling, for example, blurred texts, a
    - The colors of the titles could be better adjusted to contrast with the background and be more visible.
    - The long text may not be readable for most users, leading to a loss of interest.
    - The lack of a clear message about what the website offers or sells may cause users to misunderstand its value.
+2. Second person:
+   - This type of websites repel me. Usually when I come across such sites, I know I will probably have to search for some options. Looks okay, but poorly designed navigation gives me negative associations.
 
 ### PORTFOLIO DESIGN KIT
 Author: [Tolulope Adeyemo](https://www.figma.com/@adeyemotolulope)
@@ -211,6 +219,10 @@ Finding one's way around is quite easy, but the offerings are not particularly w
 - Are there any elements that deter users or cause confusion? (Are there any elements that may deter users?; Are there elements that are not consistent with the rest of the design?)
 
 Contacting via providing an email address that looks somewhat daunting, plus the text compression for mobile devices doesn't look too good either.
+
+#### Feedback from:
+2. Second person:
+   - This type of websites repel me. Usually when I come across such sites, I know I will probably have to search for some options. Looks okay, but poorly designed navigation gives me negative associations.
 
 ### Personal Portfolio Website
 Author: [Dliya' Zarror Nibros](https://www.figma.com/@dzarrorn)
@@ -292,6 +304,8 @@ No.
    - Changing the text "Zobacz co umiem" to "Zobacz moje umiejętności" would be more appropriate.
    - There is a typo in the menu word "OMNIE", it should be written as "O MNIE" or "O mnie".
    - Instead of "Home", it would be better to use "Strona Główna" to avoid mixing two languages.
+2. Second person:
+   - Nice, really nice. And that's all I can say because, after all, it doesn't stand out in any way.
 
 ### Frontend developer portfolio
 Link: [Janus Marcin](https://www.janusmarcin.pl/)
@@ -326,6 +340,10 @@ Yes, from the very beginning, this page looks like a business card.
 - Are there any elements that deter users or cause confusion? (Are there any elements that may deter users?; Are there elements that are not consistent with the rest of the design?)
 
 Yes, the background and the cursor-following dot I mentioned in previous points.
+
+#### Feedback from:
+2. Second person:
+   - The sphere is a bit distracting. The design is mediocre, I would dismiss it immediately.
 
 ### Product Designer portfolio
 Link: [Sean Halpin](https://www.seanhalpin.xyz/)
@@ -364,6 +382,8 @@ No.
 #### Feedback from
 1. First person:
    - Intense contrast of the pink color stands out and doesn't fit well.
+2. Second person:
+   - It doesn't look very professional.
 
 ### Digital Designer & frontend developer portfolio
 Link: [Marc Thomas](http://mrcthms.com/)
@@ -402,6 +422,8 @@ Other than the previously mentioned text on color intersections, I don't see any
 #### Feedback from
 1. First person:
    - The text is hard to read; I would suggest changing the color or modifying the colors of the triangles to improve readability.
+2. Second person:
+   - At first, I didn't notice the GitHub button. It's too colorful, and the elements blend into the background.
 
 ### Senior frontend developer
 Link: [Brittany Chiang](https://brittanychiang.com/)
@@ -441,6 +463,8 @@ I didn't find any deterrent elements.
 1. First person
    - I would try to move the dates more to the left to fill up this side.
    - Some experimentation is needed because the right side is occupied by a lot of content, while the left side appears too empty.
+2. Second person:
+   - I like this one except for the color choice. If the colors were different, it would be the best at the moment. Right now, it's number two. It's clear, readable, modern, and SIMPLE (because I value simplicity).
 
 ### Some web developers group
 Link: [Animal](https://animalmade.com/)
@@ -481,6 +505,8 @@ No, although the whole thing may be perceived as unserious.
 #### Feedback from
 1. First person:
    - This one is nice.
+2. Second person:
+   - It looks unprofessional, and from the graphics, I have no idea what to expect from this site.
 
 ### Conclusion from all other portfolios
 
