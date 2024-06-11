@@ -5,6 +5,7 @@
 Template for ADR should you found in [template document](template.md).
 
 ## List of ADR (newer should be higher)
+- [014] [Which tool for checking library updates](014-which-tool-for-checking-library-updates.md)
 - [013] [Stop using docz](013-stop-using-docz.md)
 - [012] [Is component documentation a good idea?](012-is-component-documentation-a-good-idea.md)
 - [011] [Which file structure is better for this project?](011-which-file-structure.md)
