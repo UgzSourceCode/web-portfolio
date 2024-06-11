@@ -14,6 +14,14 @@ Some description
 
 The checked tasks have been finished, but the unchecked ones were started and not finished.
 
+## 12-06-2024
+### Tasks
+- [x] Updated packages in web-app
+- [ ] Add description about summary 100 commitow in README
+- [ ] Add description about work plan in README
+### Description
+Today, I focus on updated packages and README description.
+
 ## 11-06-2024
 ### Tasks
 - [x] Research ux
