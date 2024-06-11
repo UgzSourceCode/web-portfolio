@@ -85,7 +85,7 @@ npm i
 
 ### Running the Mock Web Application
 
-![run-dev.gif](assets%2Frun-dev.gif)
+![run-dev.gif](assets/run-dev.gif)
 
 1. Clone the repository like in [Cloning repository and install dependencies](#cloning-repository-and-install-dependencies)
 2. Navigate to `web-app' folder:
@@ -137,7 +137,6 @@ This project is still ongoing at its own pace.
 ## License
 
 This project is licensed under the Creative Commons Attribution 4.0 International License - see the [LICENSE](LICENSE) file for details.
-
 
 ## Links
 - [Documentation](docs/README.md)
