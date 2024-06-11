@@ -109,6 +109,31 @@ My motivation for participating in this challenge includes:
 - Some of my friends from the Order Of Devs are also participating with their projects.
 - I aim to make progress on it every day, step by step.
 
+### Summary of the "100 Commits" Challenge
+
+When I started this project, I thought I could finish some MVP before the end of this challenge. However, I couldn't. I didn't have much time for it, so I spent only 5-15 minutes on this project every day.
+
+Some statistics:
+- My contribution diagram after this challenge:
+  ![100commits_stats_contribution_diagram.png](assets/100commits_stats_contribution_diagram.png)
+
+- Quantity of commits/stars in this project (before starting the voting):
+  - Commits: 211
+  - Stars: 16
+    ![100commits_stats_commits.png](assets/100commits_stats_commits.png)
+
+- Quantity of pull requests:
+  - PR's: 124
+    ![100commits_stats_quantity_of_pr.png](assets/100commits_stats_quantity_of_pr.png)
+
+- Commits in the biggest pull request:
+  - For some time, I started updating the diary every day, but I worked on another branch separate from the main one. So, for this statistic, I want to show the quantity of commits in my longest PR.
+    - Commits in PR: 88
+      ![100commits_stats_longest_pr.png](100commits_stats_longest_pr.png)
+    - My priority was to conduct some UX research on my own, so the PR related to this is quite large.
+
+This project is still ongoing at its own pace.
+
 ## License
 
 This project is licensed under the Creative Commons Attribution 4.0 International License - see the [LICENSE](LICENSE) file for details.
