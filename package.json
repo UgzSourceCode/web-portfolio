@@ -6,7 +6,8 @@
     "doc": "docs"
   },
   "scripts": {
-    "prepare": "husky"
+    "prepare": "husky",
+    "web-app:ncu": "ncu --packageFile 'web-app/package.json'"
   },
   "author": "Piotr 'Ugz' Bielski",
   "license": "CC-BY-4.0 license",
