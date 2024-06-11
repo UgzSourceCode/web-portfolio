@@ -496,40 +496,33 @@ Link to template: [GitHub](https://github.com/bl33h/whosbl33h)
 ![template-example-whosbl33h.png](../assets/template-example-whosbl33h.png)
 
 #### My answers
-- Czy design przyciąga uwagę i zachęca do interakcji? (Jakie elementy graficzne są najbardziej atrakcyjne?)
 - Does the design capture attention and encourage interaction? (What graphical elements are the most attractive?)
 
-Ten design jest moim zdaniem atrakcyjny i przyciąga uwagę, jednak nie widzę w nim elementów zachęcających do interakcji.
+In my opinion, this design is attractive and catches the eye. The most appealing elements are the colors and typography. However, I don't see any features that encourage interaction.
 
-- Czy użytkownicy łatwo znajdują informacje? (Jak oceniasz czytelność treści?; Czy nawigacja jest intuicyjna?)
 - Are users able to easily find information? (How do you rate the readability of the content?; Is the navigation intuitive?)
 
-Nawigacja jest intuicyjna, jednak odczytywanie skillów jest dla mnie męczące. Wolał bym statyczną strść zamiast przesuwających się elementów.
+Navigation is intuitive, but reading the skills is tiring for me. I would prefer a static page instead of scrolling elements.
 
-- Czy design jest responsywny i działa poprawnie na różnych urządzeniach? (Jakie są doświadczenia użytkowników na różnych urządzeniach?; Czy interakcje są płynne i bezproblemowe na smartfonach, tabletach i komputerach?)
 - Is the design responsive and functioning correctly on various devices? (What are the user experiences on different devices?; Are interactions smooth and seamless on smartphones, tablets, and computers?)
 
-Tak design jest responsywny, choć zdarzyło mi się że przy zmniejszaniu szerokości okna przeglądarki elementy na siebie naszły.
+Yes, the design is responsive, although I have noticed that when reducing the browser window width, some elements overlap.
 
-- Czy istnieją obszary, które sprawiają użytkownikom trudność lub są mało intuicyjne?
 - Are there areas that users find difficult or unintuitive?
 
-Nie, nie widze takich obszarów po za niewygodą odczytywania umiejętności o czym wcześniej wspomniałem.
+No, I don't see such areas, except for the difficulty in reading the skills, which I mentioned earlier.
 
-- Czy design jest zgodny z najnowszymi trendami i standardami branżowymi? (Czy spełnia aktualne standardy UX/UI?; Czy zawiera nowatorskie rozwiązania zgodne z aktualnymi trendami?)
 - Is the design compliant with the latest trends and industry standards? (Does it meet current UX/UI standards?; Does it incorporate innovative solutions in line with current trends?)
 
-Tak, design jest bardziej nowoczesny niż klasyczny. Pomimo to nie posiada nowatorskich elementów.
+Yes, the design is more modern than classic. However, it does not include innovative elements.
 
-- Czy użytkownicy łatwo znajdują się w kontekście projektu? (Jakie są pierwsze wrażenia użytkowników po wejściu na stronę czy otwarciu portfolio?; Czy od razu rozumieją, czym się zajmujesz i co oferujesz?)
 - Are users easily situated within the project context? (What are users' first impressions upon entering the website or opening the portfolio?; Do they immediately understand what you do and what you offer?)
 
-Zrozumienie celu strony pojawia się dopiero z przewinięciem jej i zapoznaniem się z dalszą treścią, choć co nie co sugeruje już samo menu w gó®nym prawym rogu.
+Understanding the purpose of the site only comes after scrolling and getting acquainted with the content, although the menu in the upper right corner does provide some hints.
 
-- Czy istnieją jakieś elementy, które odstraszają użytkowników lub powodują ich dezorientację? (Czy są jakieś elementy, które mogą odstraszyć użytkowników?; Czy istnieją elementy, które nie są spójne z resztą designu?)
 - Are there any elements that deter users or cause confusion? (Are there any elements that may deter users?; Are there elements that are not consistent with the rest of the design?)
 
-Nie
+No.
 
 ### Slick Portfolio Svelte by Riadh Adrani
 Link to demo: [GitHub Pages](https://riadhadrani.github.io/slick-portfolio-svelte)
