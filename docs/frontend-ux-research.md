@@ -670,6 +670,12 @@ In next wave I found second person. His opinion was added to description of foun
 
 ## What I want
 
+I want:
+ - Two themes (light and dark).
+ - The first screen after rendering to display information about me and what I'm currently seeking.
+ - A more classic look (I want the website to remain visually appealing for a longer time). 
+ - A responsive design (support for smartphones, tablets, and desktops).ite (support for smartphone, tablets and desktop)
+
 ### Logo font research
 
 #### Ninjabot
@@ -692,3 +698,4 @@ Link: [Fontriver Gastino](https://pl.fontriver.com/font/gastino/)
 
 Screenshot with "Ugz" part of logo:
 ![font-gastino-demo.png](../assets/font-gastino-demo.png)
+
