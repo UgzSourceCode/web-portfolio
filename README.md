@@ -129,7 +129,7 @@ Some statistics:
 - Commits in the biggest pull request:
   - For some time, I started updating the diary every day, but I worked on another branch separate from the main one. So, for this statistic, I want to show the quantity of commits in my longest PR.
     - Commits in PR: 88
-      ![100commits_stats_longest_pr.png](100commits_stats_longest_pr.png)
+      ![100commits_stats_longest_pr.png](assets/100commits_stats_longest_pr.png)
     - My priority was to conduct some UX research on my own, so the PR related to this is quite large.
 
 This project is still ongoing at its own pace.
