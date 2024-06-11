@@ -16,7 +16,7 @@ The checked tasks have been finished, but the unchecked ones were started and no
 
 ## 12-06-2024
 ### Tasks
-- [x] Updated packages in web-app
+- [x] Updated packages in web-app - [PR#164](https://github.com/UgzSourceCode/web-portfolio/pull/166)
 - [ ] Add description about summary 100 commitow in README
 - [ ] Add description about work plan in README
 ### Description
@@ -24,7 +24,7 @@ Today, I focus on updated packages and README description.
 
 ## 11-06-2024
 ### Tasks
-- [x] Research ux
+- [x] Research ux - [PR#163](https://github.com/UgzSourceCode/web-portfolio/pull/163)
 ### Description
 Today, I continue providing my own answers for UX research.
 
