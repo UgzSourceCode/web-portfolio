@@ -677,6 +677,7 @@ I want:
  - A responsive design (support for smartphones, tablets, and desktops).ite (support for smartphone, tablets and desktop)
 
 ### Logo font research
+I think that my logo can be text with a great font.
 
 #### Ninjabot
 
@@ -699,3 +700,5 @@ Link: [Fontriver Gastino](https://pl.fontriver.com/font/gastino/)
 Screenshot with "Ugz" part of logo:
 ![font-gastino-demo.png](../assets/font-gastino-demo.png)
 
+#### Conclusion of fonts for logo
+In my opinion, the best part for my nickname is [Ninjabot](#ninjabot).
