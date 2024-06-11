@@ -662,6 +662,8 @@ Nie, pomijając nie działającą mapę na dole strony.
 
 ### Conclusion from all templates
 
+Możliwość zmiany kolorystyki w ciemnym i jasnym motywie jest czymś co poprawia moim zdaniem komfotr czytania treści, dodatkowo warto zacząć od pokazania swojego opisu na stronie startowej. Mimo iż całościowo "Slick Portfolio Svelte by Riadh Adrani" mnie nie przekonuje to układ nawigacji mi się spodobał.
+
 ## Questionnaire result
 It's hard to find volunteers who can say what they think about design projects.
 
