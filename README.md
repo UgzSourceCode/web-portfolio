@@ -57,6 +57,22 @@ I'm going to do few small projects, and portfolio is way to present my person, s
 - [ ] Backend
   - [ ] Send mail from contact form to my mail
 
+## Work plan
+- [x] Learn how to do UX research
+- [x] Research UX
+- [ ] Learn how to create design for website
+- [ ] Draw portfolio design
+- [ ] Ask people what think about my design
+- [ ] Implement MVP website -> [Must have](#must-have)
+- [ ] Test website usability and performance
+- [ ] Make necessary adjustments based on feedback
+- [ ] Publish my portfolio
+- [ ] Promote portfolio on social media and relevant platforms
+- [ ] Implement additional features for website
+- [ ] Implement webserver
+- [ ] Monitor and maintain the website
+- [ ] Gather continuous feedback for improvements
+
 ## Quick start
 ### Cloning repository and install dependencies
 
