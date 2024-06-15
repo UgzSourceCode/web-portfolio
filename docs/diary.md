@@ -14,9 +14,16 @@ Some description
 
 The checked tasks have been finished, but the unchecked ones were started and not finished.
 
+## 14-06-2024
+### Tasks
+- [x] Add description about work plan in README
+- [ ] Create description "how to update packages in web-app"
+### Description
+Today, I continue updating README description.
+
 ## 13-06-2024
 ### Tasks
-- [ ] Add description about summary 100 commitow in README - [PR#171](https://github.com/UgzSourceCode/web-portfolio/pull/171)
+- [x] Add description about summary 100 commitow in README - [PR#171](https://github.com/UgzSourceCode/web-portfolio/pull/171)
 - [ ] Add description about work plan in README
 ### Description
 Today, I continue updating README description.
