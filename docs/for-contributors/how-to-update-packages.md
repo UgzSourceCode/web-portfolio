@@ -25,3 +25,8 @@
    - Run the tests
    - Run app and check it manually
 7. If everything works correctly, create a pull request with the updates.
+
+## Additional Notes
+- Make sure to review the changes in your pull request thoroughly.
+- If you encounter any issues during the update process, document them inside [GitHub issues](https://github.com/UgzSourceCode/web-portfolio/issues) and suggest possible solutions.
+- Keeping dependencies up-to-date is crucial for maintaining security and performance, so regular checks and updates are recommended.
