@@ -14,6 +14,12 @@ Some description
 
 The checked tasks have been finished, but the unchecked ones were started and not finished.
 
+## 16-06-2024
+### Tasks
+- [ ] Learn figma
+### Description
+Today, I spend time watching a video course about figma.
+
 ## 15-06-2024
 ### Tasks
 - [x] Create description "how to update packages in web-app" - [PR#167](https://github.com/UgzSourceCode/web-portfolio/pull/173)
