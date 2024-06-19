@@ -10,7 +10,7 @@
     "format": "npx @biomejs/biome format src --write",
     "format:check": "npx @biomejs/biome format src",
     "lint:check": "npx @biomejs/biome lint src",
-    "lint:fix": "npx @biomejs/biome lint src --apply",
+    "lint:fix": "npx @biomejs/biome lint src --write",
     "storybook": "storybook dev -p 6006",
     "storybook:build": "storybook build"
   },
