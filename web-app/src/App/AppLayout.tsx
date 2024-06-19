@@ -3,6 +3,7 @@ import reactLogo from "../Assets/react.svg";
 import viteLogo from "/vite.svg";
 import "./styles.css";
 import { useTranslation } from "react-i18next";
+import { LanguageSelectorModal } from "./LanguageSelectorModal";
 
 export const AppLayout = () => {
 	const { t } = useTranslation();
@@ -31,6 +32,7 @@ export const AppLayout = () => {
 			<p className="read-the-docs">
 				Click on the Vite and React logos to learn more
 			</p>
+			<LanguageSelectorModal />
 		</>
 	);
 };
