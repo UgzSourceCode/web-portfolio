@@ -8,8 +8,12 @@ import {
 	ModalOverlay,
 } from "@chakra-ui/react";
 import { useCallback, useState } from "react";
+import { useLanguageSelector } from "./useLanguageSelector.ts";
+import { useTranslation } from "react-i18next";
 
 export const LanguageSelectorModal = () => {
+	const { t } = useTranslation();
+	const { getLanguagesCollection, setLanguage } = useLanguageSelector();
 	const [isOpen, setIsOpen] = useState<boolean>(true);
 
 	const onClose = useCallback(() => {
@@ -21,12 +25,21 @@ export const LanguageSelectorModal = () => {
 			<ModalOverlay />
 
 			<ModalContent>
-				<ModalHeader>Wybierz języka :)</ModalHeader>
+				<ModalHeader>{t("selectLanguageModal.title")}:</ModalHeader>
 				<ModalCloseButton />
 				<ModalBody>
-					Loreum ipsum
-					<Button>pl</Button>
-					<Button>en</Button>
+					{getLanguagesCollection().map((language) => (
+						<Button
+							variant="clear"
+							key={language.ShortName}
+							onClick={() => {
+								setLanguage(language.ShortName);
+								setIsOpen(false);
+							}}
+						>
+							{language.Name}
+						</Button>
+					))}
 				</ModalBody>
 			</ModalContent>
 		</Modal>

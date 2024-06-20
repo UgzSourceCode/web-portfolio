@@ -1,3 +1,6 @@
 {
-  "title": "web_portfolio_pl"
+  "title": "web_portfolio_pl",
+  "selectLanguageModal": {
+    "title": "Wybierz język"
+  }
 }
