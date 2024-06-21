@@ -16,6 +16,12 @@ The checked tasks have been finished, but the unchecked ones were started and no
 
 ## 20-06-2024
 ### Tasks
+- [ ] Learn figma
+### Description
+Today, I spend time watching a video course about figma.
+
+## 20-06-2024
+### Tasks
 - [ ] Experiment with the language selection modal
 - [ ] Learn figma
 ### Description
