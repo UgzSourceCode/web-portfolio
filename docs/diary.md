@@ -14,7 +14,13 @@ Some description
 
 The checked tasks have been finished, but the unchecked ones were started and not finished.
 
-## 20-06-2024
+## 22-06-2024
+### Tasks
+- [ ] Learn figma
+### Description
+Today, I spend time watching a video course about figma.
+
+## 21-06-2024
 ### Tasks
 - [ ] Learn figma
 ### Description
